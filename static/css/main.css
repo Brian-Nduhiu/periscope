@@ -1,0 +1,57 @@
+.employee-conainer{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 110px;
+    margin-left: 280px;
+    width: 800px;
+}
+.home-container{
+   
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgb(206, 206, 206);
+
+
+}
+.terms{
+    
+    width: 50%;
+    border-right: black solid 2px;
+    padding: 15px 0px 15px 15px;
+}
+.active-shifts{
+    width: 50%;
+    border-left: black solid 2px;
+    padding: 15px;
+}
+.active-shift-title{
+    
+    padding-left: 85px;
+
+}
+
+.shift-date{
+    
+    padding-left: 70px;
+    padding-top: 30px;
+
+}
+
+.shift-time{
+    
+    padding-left: 105px;
+
+}
+#start-button{
+    
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 120px;
+
+}
