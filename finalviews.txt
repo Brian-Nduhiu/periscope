@@ -1,0 +1,15 @@
+{'www.youtube.com': 0}
+{'www.youtube.com': 2}
+{'www.youtube.com': 8, 'getbootstrap.com': 0}
+{'www.youtube.com': 8, 'getbootstrap.com': 8, 'stackoverflow.com': 0}
+{'www.youtube.com': 8, 'getbootstrap.com': 8, 'stackoverflow.com': 1}
+{'www.youtube.com': 16, 'getbootstrap.com': 8, 'stackoverflow.com': 1}
+{'www.youtube.com': 24, 'getbootstrap.com': 8, 'stackoverflow.com': 1}
+{'www.youtube.com': 34, 'getbootstrap.com': 8, 'stackoverflow.com': 1}
+{'www.youtube.com': 42, 'getbootstrap.com': 8, 'stackoverflow.com': 1}
+{'www.youtube.com': 43, 'getbootstrap.com': 8, 'stackoverflow.com': 1, 'penzu.com': 0}
+{'www.youtube.com': 43, 'getbootstrap.com': 8, 'stackoverflow.com': 1, 'penzu.com': 1, 'geekflare.com': 0}
+{'www.youtube.com': 43, 'getbootstrap.com': 8, 'stackoverflow.com': 1, 'penzu.com': 1, 'geekflare.com': 2}
+{'www.youtube.com': 50, 'getbootstrap.com': 8, 'stackoverflow.com': 1, 'penzu.com': 1, 'geekflare.com': 2, 'www.geeksforgeeks.org': 0}
+{'www.youtube.com': 50, 'getbootstrap.com': 8, 'stackoverflow.com': 1, 'penzu.com': 1, 'geekflare.com': 2, 'www.geeksforgeeks.org': 66}
+{'127.0.0.1:5000': 0}
