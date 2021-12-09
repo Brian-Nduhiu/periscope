@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{%block content%}
+
+<h3>
+    Your shift is from 8:00AM - 5:00PM
+</h3>
+
+
+<table class="table table-success table-striped table-bordered table-hover caption-top" style="margin-top: 110px; width: 1000px; margin-left: 185px;">
+    <caption>Today's Shift Breakdown</caption>
+    <tr>
+        <td>8:00AM</td>
+        <td>10:00AM</td>
+        <td>Burst</td>
+    </tr>
+    <tr class="table-warning">
+        <td>10:00AM</td>
+        <td>10:30AM</td>
+        <td>Break</td>
+    </tr>
+    <tr>
+        <td>10:30AM</td>
+        <td>01:00PM</td>
+        <td>Burst</td>
+    </tr>
+    <tr class="table-warning">
+        <td>01:00PM</td>
+        <td>02:00PM</td>
+        <td>Break</td>
+    </tr>
+    <tr>
+        <td>02:00PM</td>
+        <td>05:00PM</td>
+        <td>Burst</td>
+    </tr>
+</table>
+
+
+<a href="/em/"><input type="button" value="END SHIFT" class="btn-danger btn-lg" style="margin-left: 180px;"></a>
+
+
+{%endblock%}

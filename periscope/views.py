@@ -1,8 +1,9 @@
 import re
-from flask import Flask, render_template, jsonify, request
+from flask import Flask,Blueprint, render_template, jsonify, request
 import time
 
-app = Flask(__name__)
+
+views = Blueprint('views', __name__)
 
 url_timestamp = {}
 url_viewtime = {}
@@ -17,7 +18,7 @@ def url_strip(url):
     return url
 
 
-@app.route('/send_url', methods=['POST'])
+@views.route('/send_url', methods=['POST'])
 def send_url():
     resp_json = request.get_data()
     params = resp_json.decode()
@@ -51,7 +52,7 @@ def send_url():
 
     return jsonify({'message': 'success!'}), 200
 
-@app.route('/quit_url', methods=['POST'])
+@views.route('/quit_url', methods=['POST'])
 def quit_url():
     resp_json = request.get_data()
     print("Url closed: " + resp_json.decode())
@@ -59,11 +60,24 @@ def quit_url():
 
 
 
-
-@app.route("/")
-def employeeHome():
+@views.route('/em/')
+def home():
     return render_template("employee.html")
 
+@views.route('/em/breakdown')
+def breakpoint():
+    return render_template("shift_breakdown.html")
 
-if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=5000, debug=True)
+@views.route('/em/shifts')
+def shifts():
+    return render_template("shifts.html")
+
+@views.route('/em/tasks')
+def tasks():
+    return render_template("tasks.html")
+
+@views.route('/em/activity')
+def activity():
+    return render_template("activity.html")
+
+
