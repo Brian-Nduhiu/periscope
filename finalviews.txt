@@ -3,3 +3,148 @@
 {'medium.com': 13, 'www.youtube.com': 7, 'github.com': 0}
 {'medium.com': 13, 'www.youtube.com': 7, 'github.com': 1, 'www.goojara.to': 0}
 {'medium.com': 13, 'www.youtube.com': 7, 'github.com': 1, 'www.goojara.to': 3, 'getbootstrap.com': 0}
+{'medium.com': 13, 'www.youtube.com': 7, 'github.com': 1, 'www.goojara.to': 3, 'getbootstrap.com': 139}
+{'medium.com': 13, 'www.youtube.com': 7, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 0}
+{'medium.com': 13, 'www.youtube.com': 7, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 2}
+{'medium.com': 13, 'www.youtube.com': 7, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 5}
+{'medium.com': 13, 'www.youtube.com': 7, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 16}
+{'medium.com': 13, 'www.youtube.com': 7, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 18}
+{'medium.com': 13, 'www.youtube.com': 7, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 43}
+{'medium.com': 13, 'www.youtube.com': 7, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46}
+{'medium.com': 13, 'www.youtube.com': 9, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0}
+{'medium.com': 13, 'www.youtube.com': 9, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 0}
+{'medium.com': 13, 'www.youtube.com': 9, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 23, 'www.google.com': 0}
+{'medium.com': 13, 'www.youtube.com': 9, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 23, 'www.google.com': 8}
+{'medium.com': 13, 'www.youtube.com': 9, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 23, 'www.google.com': 19, 'themeforest.net': 0}
+{'medium.com': 13, 'www.youtube.com': 9, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 23, 'www.google.com': 19, 'themeforest.net': 9}
+{'medium.com': 13, 'www.youtube.com': 9, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 23, 'www.google.com': 50, 'themeforest.net': 9}
+{'medium.com': 13, 'www.youtube.com': 9, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 23, 'www.google.com': 56, 'themeforest.net': 9, 'www.w3schools.com': 0}
+{'medium.com': 13, 'www.youtube.com': 9, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 23, 'www.google.com': 56, 'themeforest.net': 9, 'www.w3schools.com': 60}
+{'medium.com': 13, 'www.youtube.com': 9, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 23, 'www.google.com': 56, 'themeforest.net': 9, 'www.w3schools.com': 60}
+{'medium.com': 13, 'www.youtube.com': 9, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 23, 'www.google.com': 56, 'themeforest.net': 9, 'www.w3schools.com': 125}
+{'medium.com': 16, 'www.youtube.com': 9, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 23, 'www.google.com': 56, 'themeforest.net': 9, 'www.w3schools.com': 125}
+{'medium.com': 16, 'www.youtube.com': 9, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 24, 'www.google.com': 56, 'themeforest.net': 9, 'www.w3schools.com': 125}
+{'medium.com': 16, 'www.youtube.com': 9, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 24, 'www.google.com': 56, 'themeforest.net': 9, 'www.w3schools.com': 140}
+{'medium.com': 16, 'www.youtube.com': 9, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 24, 'www.google.com': 56, 'themeforest.net': 9, 'www.w3schools.com': 143}
+{'medium.com': 16, 'www.youtube.com': 9, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 24, 'www.google.com': 91, 'themeforest.net': 9, 'www.w3schools.com': 143}
+{'medium.com': 16, 'www.youtube.com': 9, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 24, 'www.google.com': 103, 'themeforest.net': 9, 'www.w3schools.com': 143}
+{'medium.com': 16, 'www.youtube.com': 9, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 24, 'www.google.com': 550, 'themeforest.net': 9, 'www.w3schools.com': 143}
+{'medium.com': 16, 'www.youtube.com': 12, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 24, 'www.google.com': 550, 'themeforest.net': 9, 'www.w3schools.com': 143}
+{'medium.com': 16, 'www.youtube.com': 30, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 24, 'www.google.com': 550, 'themeforest.net': 9, 'www.w3schools.com': 143}
+{'medium.com': 16, 'www.youtube.com': 43, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 24, 'www.google.com': 550, 'themeforest.net': 9, 'www.w3schools.com': 143}
+{'medium.com': 16, 'www.youtube.com': 71, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 24, 'www.google.com': 550, 'themeforest.net': 9, 'www.w3schools.com': 143}
+{'medium.com': 16, 'www.youtube.com': 78, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 24, 'www.google.com': 550, 'themeforest.net': 9, 'www.w3schools.com': 143}
+{'medium.com': 16, 'www.youtube.com': 246, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 24, 'www.google.com': 550, 'themeforest.net': 9, 'www.w3schools.com': 143}
+{'medium.com': 16, 'www.youtube.com': 246, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 24, 'www.google.com': 550, 'themeforest.net': 9, 'www.w3schools.com': 143}
+{'medium.com': 16, 'www.youtube.com': 246, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 33, 'www.google.com': 550, 'themeforest.net': 9, 'www.w3schools.com': 143}
+{'medium.com': 16, 'www.youtube.com': 246, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 33, 'www.google.com': 553, 'themeforest.net': 9, 'www.w3schools.com': 143, 'flask.palletsprojects.com': 0}
+{'medium.com': 16, 'www.youtube.com': 246, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 33, 'www.google.com': 553, 'themeforest.net': 9, 'www.w3schools.com': 143, 'flask.palletsprojects.com': 52}
+{'medium.com': 16, 'www.youtube.com': 246, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 33, 'www.google.com': 557, 'themeforest.net': 9, 'www.w3schools.com': 143, 'flask.palletsprojects.com': 52, 'jinja.palletsprojects.com': 0}
+{'medium.com': 16, 'www.youtube.com': 246, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 33, 'www.google.com': 557, 'themeforest.net': 9, 'www.w3schools.com': 143, 'flask.palletsprojects.com': 52, 'jinja.palletsprojects.com': 20}
+{'medium.com': 16, 'www.youtube.com': 246, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 33, 'www.google.com': 557, 'themeforest.net': 9, 'www.w3schools.com': 143, 'flask.palletsprojects.com': 52, 'jinja.palletsprojects.com': 73, 'docs.python.org': 0}
+{'medium.com': 16, 'www.youtube.com': 246, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 33, 'www.google.com': 557, 'themeforest.net': 9, 'www.w3schools.com': 143, 'flask.palletsprojects.com': 52, 'jinja.palletsprojects.com': 73, 'docs.python.org': 8}
+{'medium.com': 16, 'www.youtube.com': 246, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 33, 'www.google.com': 557, 'themeforest.net': 9, 'www.w3schools.com': 143, 'flask.palletsprojects.com': 52, 'jinja.palletsprojects.com': 101, 'docs.python.org': 8}
+{'medium.com': 16, 'www.youtube.com': 246, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 33, 'www.google.com': 557, 'themeforest.net': 9, 'www.w3schools.com': 143, 'flask.palletsprojects.com': 52, 'jinja.palletsprojects.com': 102, 'docs.python.org': 8}
+{'medium.com': 16, 'www.youtube.com': 246, 'github.com': 53, 'www.goojara.to': 3, 'getbootstrap.com': 139, '127.0.0.1:5000': 46, '': 0, 'chrome:': 33, 'www.google.com': 565, 'themeforest.net': 9, 'www.w3schools.com': 143, 'flask.palletsprojects.com': 52, 'jinja.palletsprojects.com': 102, 'docs.python.org': 8, 'code.tutsplus.com': 0}
+{'www.youtube.com': 0}
+{'www.youtube.com': 3, 'github.com': 0}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 0, 'www.youtube.com': 0}
+{'127.0.0.1:5000': 0, 'www.youtube.com': 4, 'www.google.com': 0}
+{'127.0.0.1:5000': 0, 'www.youtube.com': 4, 'www.google.com': 2, 'code.tutsplus.com': 0}
+{'www.youtube.com': 0}
+{'www.youtube.com': 179, '127.0.0.1:5000': 0}
+{'www.youtube.com': 0}
+{'www.youtube.com': 9, 'chrome:': 0}
+{'www.youtube.com': 9, 'chrome:': 1, 'www.google.com': 0}
+{'www.youtube.com': 9, 'chrome:': 1, 'www.google.com': 1, 'getbootstrap.com': 0}
+{'www.youtube.com': 9, 'chrome:': 1, 'www.google.com': 1, 'getbootstrap.com': 2, 'github.com': 0}
+{'www.youtube.com': 9, 'chrome:': 1, 'www.google.com': 1, 'getbootstrap.com': 2, 'github.com': 1, '127.0.0.1:5000': 0}
+{'www.youtube.com': 9, 'chrome:': 1, 'www.google.com': 1, 'getbootstrap.com': 2, 'github.com': 1, '127.0.0.1:5000': 0}
+{'www.youtube.com': 9, 'chrome:': 2, 'www.google.com': 1, 'getbootstrap.com': 2, 'github.com': 1, '127.0.0.1:5000': 0}
+{'www.youtube.com': 9, 'chrome:': 2, 'www.google.com': 3, 'getbootstrap.com': 2, 'github.com': 1, '127.0.0.1:5000': 0, 'code.tutsplus.com': 0}
+{'www.youtube.com': 9, 'chrome:': 2, 'www.google.com': 3, 'getbootstrap.com': 2, 'github.com': 1, '127.0.0.1:5000': 0, 'code.tutsplus.com': 2}
+{'www.youtube.com': 9, 'chrome:': 2, 'www.google.com': 3, 'getbootstrap.com': 3, 'github.com': 1, '127.0.0.1:5000': 0, 'code.tutsplus.com': 2, 'www.goojara.to': 0}
+{'www.youtube.com': 9, 'chrome:': 2, 'www.google.com': 3, 'getbootstrap.com': 3, 'github.com': 1, '127.0.0.1:5000': 0, 'code.tutsplus.com': 2, 'www.goojara.to': 1}
+{'www.youtube.com': 9, 'chrome:': 2, 'www.google.com': 3, 'getbootstrap.com': 3, 'github.com': 1, '127.0.0.1:5000': 0, 'code.tutsplus.com': 2, 'www.goojara.to': 1}
+{'www.youtube.com': 9, 'chrome:': 2, 'www.google.com': 3, 'getbootstrap.com': 3, 'github.com': 1, '127.0.0.1:5000': 60, 'code.tutsplus.com': 2, 'www.goojara.to': 1}
+{'www.youtube.com': 9, 'chrome:': 2, 'www.google.com': 3, 'getbootstrap.com': 3, 'github.com': 1, '127.0.0.1:5000': 60, 'code.tutsplus.com': 2, 'www.goojara.to': 1}
+{'www.youtube.com': 9, 'chrome:': 2, 'www.google.com': 3, 'getbootstrap.com': 3, 'github.com': 1, '127.0.0.1:5000': 60, 'code.tutsplus.com': 2, 'www.goojara.to': 3}
+{'www.youtube.com': 9, 'chrome:': 2, 'www.google.com': 3, 'getbootstrap.com': 3, 'github.com': 3, '127.0.0.1:5000': 60, 'code.tutsplus.com': 2, 'www.goojara.to': 3, '': 0}
+{'www.youtube.com': 9, 'chrome:': 2, 'www.google.com': 3, 'getbootstrap.com': 3, 'github.com': 3, '127.0.0.1:5000': 60, 'code.tutsplus.com': 2, 'www.goojara.to': 3, '': 0}
+{'www.youtube.com': 9, 'chrome:': 5, 'www.google.com': 3, 'getbootstrap.com': 3, 'github.com': 3, '127.0.0.1:5000': 60, 'code.tutsplus.com': 2, 'www.goojara.to': 3, '': 0, 'web.whatsapp.com': 0}
+{'www.youtube.com': 9, 'chrome:': 5, 'www.google.com': 3, 'getbootstrap.com': 3, 'github.com': 3, '127.0.0.1:5000': 60, 'code.tutsplus.com': 2, 'www.goojara.to': 3, '': 0, 'web.whatsapp.com': 15}
+{'www.youtube.com': 9, 'chrome:': 5, 'www.google.com': 3, 'getbootstrap.com': 3, 'github.com': 3, '127.0.0.1:5000': 67, 'code.tutsplus.com': 2, 'www.goojara.to': 3, '': 0, 'web.whatsapp.com': 15}
+{'www.youtube.com': 9, 'chrome:': 5, 'www.google.com': 3, 'getbootstrap.com': 3, 'github.com': 3, '127.0.0.1:5000': 67, 'code.tutsplus.com': 2, 'www.goojara.to': 3, '': 0, 'web.whatsapp.com': 18}
+{'www.youtube.com': 9, 'chrome:': 5, 'www.google.com': 3, 'getbootstrap.com': 3, 'github.com': 3, '127.0.0.1:5000': 67, 'code.tutsplus.com': 3, 'www.goojara.to': 3, '': 0, 'web.whatsapp.com': 18}
+{'www.youtube.com': 9, 'chrome:': 5, 'www.google.com': 3, 'getbootstrap.com': 3, 'github.com': 3, '127.0.0.1:5000': 96, 'code.tutsplus.com': 3, 'www.goojara.to': 3, '': 0, 'web.whatsapp.com': 18}
+{'www.youtube.com': 9, 'chrome:': 5, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 3, '127.0.0.1:5000': 96, 'code.tutsplus.com': 3, 'www.goojara.to': 3, '': 0, 'web.whatsapp.com': 18}
+{'www.youtube.com': 9, 'chrome:': 5, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 3, '127.0.0.1:5000': 96, 'code.tutsplus.com': 3, 'www.goojara.to': 4, '': 0, 'web.whatsapp.com': 18}
+{'www.youtube.com': 9, 'chrome:': 5, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 4, '127.0.0.1:5000': 96, 'code.tutsplus.com': 3, 'www.goojara.to': 4, '': 0, 'web.whatsapp.com': 18}
+{'www.youtube.com': 9, 'chrome:': 5, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 4, '127.0.0.1:5000': 110, 'code.tutsplus.com': 3, 'www.goojara.to': 4, '': 0, 'web.whatsapp.com': 18}
+{'www.youtube.com': 9, 'chrome:': 5, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 4, '127.0.0.1:5000': 110, 'code.tutsplus.com': 6, 'www.goojara.to': 4, '': 0, 'web.whatsapp.com': 18}
+{'www.youtube.com': 9, 'chrome:': 5, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 4, '127.0.0.1:5000': 110, 'code.tutsplus.com': 6, 'www.goojara.to': 4, '': 0, 'web.whatsapp.com': 18}
+{'www.youtube.com': 9, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 4, '127.0.0.1:5000': 110, 'code.tutsplus.com': 6, 'www.goojara.to': 4, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 0}
+{'www.youtube.com': 9, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 4, '127.0.0.1:5000': 110, 'code.tutsplus.com': 6, 'www.goojara.to': 4, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 8}
+{'www.youtube.com': 9, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 4, '127.0.0.1:5000': 110, 'code.tutsplus.com': 6, 'www.goojara.to': 4, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 14}
+{'www.youtube.com': 9, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 4, '127.0.0.1:5000': 116, 'code.tutsplus.com': 6, 'www.goojara.to': 4, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 14}
+{'www.youtube.com': 9, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 4, '127.0.0.1:5000': 116, 'code.tutsplus.com': 6, 'www.goojara.to': 4, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 0}
+{'www.youtube.com': 9, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 4, '127.0.0.1:5000': 116, 'code.tutsplus.com': 6, 'www.goojara.to': 4, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 2}
+{'www.youtube.com': 9, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 4, '127.0.0.1:5000': 125, 'code.tutsplus.com': 6, 'www.goojara.to': 4, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 2}
+{'www.youtube.com': 9, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 4, '127.0.0.1:5000': 125, 'code.tutsplus.com': 6, 'www.goojara.to': 4, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 7}
+{'www.youtube.com': 9, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 4, '127.0.0.1:5000': 130, 'code.tutsplus.com': 6, 'www.goojara.to': 4, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 7}
+{'www.youtube.com': 9, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 4, '127.0.0.1:5000': 130, 'code.tutsplus.com': 6, 'www.goojara.to': 4, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 9, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 4, '127.0.0.1:5000': 130, 'code.tutsplus.com': 7, 'www.goojara.to': 4, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 9, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 4, '127.0.0.1:5000': 148, 'code.tutsplus.com': 7, 'www.goojara.to': 4, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 9, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 4, '127.0.0.1:5000': 148, 'code.tutsplus.com': 7, 'www.goojara.to': 7, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 9, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 5, '127.0.0.1:5000': 148, 'code.tutsplus.com': 7, 'www.goojara.to': 7, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 9, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 5, '127.0.0.1:5000': 156, 'code.tutsplus.com': 7, 'www.goojara.to': 7, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 9, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 6, '127.0.0.1:5000': 156, 'code.tutsplus.com': 7, 'www.goojara.to': 7, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 9, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 6, '127.0.0.1:5000': 156, 'code.tutsplus.com': 7, 'www.goojara.to': 7, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 10, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 6, '127.0.0.1:5000': 156, 'code.tutsplus.com': 7, 'www.goojara.to': 7, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 10, 'chrome:': 13, 'www.google.com': 3, 'getbootstrap.com': 4, 'github.com': 6, '127.0.0.1:5000': 156, 'code.tutsplus.com': 7, 'www.goojara.to': 7, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 10, 'chrome:': 13, 'www.google.com': 4, 'getbootstrap.com': 4, 'github.com': 6, '127.0.0.1:5000': 156, 'code.tutsplus.com': 7, 'www.goojara.to': 7, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 10, 'chrome:': 13, 'www.google.com': 4, 'getbootstrap.com': 4, 'github.com': 6, '127.0.0.1:5000': 156, 'code.tutsplus.com': 8, 'www.goojara.to': 7, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 10, 'chrome:': 13, 'www.google.com': 4, 'getbootstrap.com': 4, 'github.com': 6, '127.0.0.1:5000': 156, 'code.tutsplus.com': 8, 'www.goojara.to': 7, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 10, 'chrome:': 13, 'www.google.com': 4, 'getbootstrap.com': 4, 'github.com': 6, '127.0.0.1:5000': 156, 'code.tutsplus.com': 8, 'www.goojara.to': 7, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 10, 'chrome:': 13, 'www.google.com': 4, 'getbootstrap.com': 4, 'github.com': 7, '127.0.0.1:5000': 156, 'code.tutsplus.com': 8, 'www.goojara.to': 7, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 10, 'chrome:': 13, 'www.google.com': 4, 'getbootstrap.com': 4, 'github.com': 7, '127.0.0.1:5000': 156, 'code.tutsplus.com': 8, 'www.goojara.to': 8, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 10, 'chrome:': 13, 'www.google.com': 4, 'getbootstrap.com': 4, 'github.com': 7, '127.0.0.1:5000': 156, 'code.tutsplus.com': 8, 'www.goojara.to': 8, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 10, 'chrome:': 13, 'www.google.com': 4, 'getbootstrap.com': 4, 'github.com': 7, '127.0.0.1:5000': 156, 'code.tutsplus.com': 8, 'www.goojara.to': 9, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 10, 'chrome:': 13, 'www.google.com': 4, 'getbootstrap.com': 4, 'github.com': 7, '127.0.0.1:5000': 243, 'code.tutsplus.com': 8, 'www.goojara.to': 9, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 26, 'chrome:': 13, 'www.google.com': 4, 'getbootstrap.com': 4, 'github.com': 7, '127.0.0.1:5000': 243, 'code.tutsplus.com': 8, 'www.goojara.to': 9, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'www.youtube.com': 35, 'chrome:': 13, 'www.google.com': 4, 'getbootstrap.com': 4, 'github.com': 7, '127.0.0.1:5000': 243, 'code.tutsplus.com': 8, 'www.goojara.to': 9, '': 0, 'web.whatsapp.com': 18, 'platform.verbit.co': 22, 'penzu.com': 8}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 0, 'www.youtube.com': 0}
+{'127.0.0.1:5000': 0, 'www.youtube.com': 1}
+{'127.0.0.1:5000': 5, 'www.youtube.com': 1}
+{'127.0.0.1:5000': 5, 'www.youtube.com': 1, 'chrome:': 0}
+{'127.0.0.1:5000': 5, 'www.youtube.com': 1, 'chrome:': 1, 'www.google.com': 0}
+{'127.0.0.1:5000': 5, 'www.youtube.com': 1, 'chrome:': 1, 'www.google.com': 2, 'code.tutsplus.com': 0}
+{'127.0.0.1:5000': 5, 'www.youtube.com': 1, 'chrome:': 1, 'www.google.com': 2, 'code.tutsplus.com': 4, 'github.com': 0}
+{'127.0.0.1:5000': 5, 'www.youtube.com': 1, 'chrome:': 1, 'www.google.com': 2, 'code.tutsplus.com': 4, 'github.com': 0, 'www.goojara.to': 0}
+{'127.0.0.1:5000': 5, 'www.youtube.com': 1, 'chrome:': 1, 'www.google.com': 2, 'code.tutsplus.com': 4, 'github.com': 0, 'www.goojara.to': 3, 'getbootstrap.com': 0}
+{'127.0.0.1:5000': 5, 'www.youtube.com': 1, 'chrome:': 1, 'www.google.com': 2, 'code.tutsplus.com': 4, 'github.com': 0, 'www.goojara.to': 3, 'getbootstrap.com': 7}
+{'127.0.0.1:5000': 27, 'www.youtube.com': 1, 'chrome:': 1, 'www.google.com': 2, 'code.tutsplus.com': 4, 'github.com': 0, 'www.goojara.to': 3, 'getbootstrap.com': 7}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 3, 'www.goojara.to': 0}
+{'127.0.0.1:5000': 3, 'www.goojara.to': 4, 'code.tutsplus.com': 0}
+{'127.0.0.1:5000': 3, 'www.goojara.to': 4, 'code.tutsplus.com': 6, 'chrome:': 0}
+{'127.0.0.1:5000': 3, 'www.goojara.to': 4, 'code.tutsplus.com': 6, 'chrome:': 4, 'www.google.com': 0}
+{'127.0.0.1:5000': 3, 'www.goojara.to': 4, 'code.tutsplus.com': 6, 'chrome:': 4, 'www.google.com': 6}
+{'127.0.0.1:5000': 3, 'www.goojara.to': 4, 'code.tutsplus.com': 8, 'chrome:': 4, 'www.google.com': 6, 'www.youtube.com': 0}
+{'127.0.0.1:5000': 3, 'www.goojara.to': 4, 'code.tutsplus.com': 8, 'chrome:': 4, 'www.google.com': 6, 'www.youtube.com': 16}
+{'127.0.0.1:5000': 16, 'www.goojara.to': 4, 'code.tutsplus.com': 8, 'chrome:': 4, 'www.google.com': 6, 'www.youtube.com': 16}
+{'127.0.0.1:5000': 16, 'www.goojara.to': 5, 'code.tutsplus.com': 8, 'chrome:': 4, 'www.google.com': 6, 'www.youtube.com': 16, 'getbootstrap.com': 0}
+{'127.0.0.1:5000': 16, 'www.goojara.to': 5, 'code.tutsplus.com': 8, 'chrome:': 4, 'www.google.com': 6, 'www.youtube.com': 16, 'getbootstrap.com': 1, 'github.com': 0}
+{'127.0.0.1:5000': 16, 'www.goojara.to': 5, 'code.tutsplus.com': 8, 'chrome:': 4, 'www.google.com': 6, 'www.youtube.com': 16, 'getbootstrap.com': 1, 'github.com': 10}
+{'127.0.0.1:5000': 23, 'www.goojara.to': 5, 'code.tutsplus.com': 8, 'chrome:': 4, 'www.google.com': 6, 'www.youtube.com': 16, 'getbootstrap.com': 1, 'github.com': 10}
+{'127.0.0.1:5000': 23, 'www.goojara.to': 5, 'code.tutsplus.com': 8, 'chrome:': 4, 'www.google.com': 6, 'www.youtube.com': 16, 'getbootstrap.com': 1, 'github.com': 11}
+{'127.0.0.1:5000': 23, 'www.goojara.to': 5, 'code.tutsplus.com': 8, 'chrome:': 4, 'www.google.com': 6, 'www.youtube.com': 16, 'getbootstrap.com': 1, 'github.com': 11}
+{'127.0.0.1:5000': 23, 'www.goojara.to': 5, 'code.tutsplus.com': 12, 'chrome:': 4, 'www.google.com': 6, 'www.youtube.com': 16, 'getbootstrap.com': 1, 'github.com': 11, '': 0}
+{'127.0.0.1:5000': 23, 'www.goojara.to': 5, 'code.tutsplus.com': 12, 'chrome:': 4, 'www.google.com': 6, 'www.youtube.com': 16, 'getbootstrap.com': 1, 'github.com': 11, '': 0}
+{'127.0.0.1:5000': 23, 'www.goojara.to': 5, 'code.tutsplus.com': 12, 'chrome:': 10, 'www.google.com': 6, 'www.youtube.com': 16, 'getbootstrap.com': 1, 'github.com': 11, '': 0, 'mail.google.com': 0}
+{'127.0.0.1:5000': 23, 'www.goojara.to': 5, 'code.tutsplus.com': 12, 'chrome:': 10, 'www.google.com': 6, 'www.youtube.com': 16, 'getbootstrap.com': 1, 'github.com': 11, '': 0, 'mail.google.com': 10}
+{'127.0.0.1:5000': 44, 'www.goojara.to': 5, 'code.tutsplus.com': 12, 'chrome:': 10, 'www.google.com': 6, 'www.youtube.com': 16, 'getbootstrap.com': 1, 'github.com': 11, '': 0, 'mail.google.com': 10}
+{'127.0.0.1:5000': 44, 'www.goojara.to': 5, 'code.tutsplus.com': 12, 'chrome:': 10, 'www.google.com': 6, 'www.youtube.com': 17, 'getbootstrap.com': 1, 'github.com': 11, '': 0, 'mail.google.com': 10}
+{'127.0.0.1:5000': 44, 'www.goojara.to': 5, 'code.tutsplus.com': 12, 'chrome:': 10, 'www.google.com': 6, 'www.youtube.com': 17, 'getbootstrap.com': 1, 'github.com': 11, '': 0, 'mail.google.com': 10}

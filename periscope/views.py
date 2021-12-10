@@ -44,8 +44,8 @@ def send_url():
     x = int(time.time())
     url_timestamp[parent_url] = x
     prev_url = parent_url
-    print("final timestamps: ", url_timestamp)
-    print("final viewtimes: ", url_viewtime)
+    print("final timestamps11: ", url_timestamp)
+    print("final viewtimes22: ", url_viewtime)
     with open('finalviews.txt','a')as f:
         f.write(str(url_viewtime))
         f.write('\n')
@@ -78,6 +78,7 @@ def tasks():
 
 @views.route('/em/activity')
 def activity():
-    return render_template("activity.html")
+    new_urlViewtime = {k: v for k, v in sorted(url_viewtime.items(), key= lambda v: v[1], reverse=True)}
+    return render_template("activity.html", disp = list( new_urlViewtime.items()))
 
 
