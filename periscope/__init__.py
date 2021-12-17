@@ -1,6 +1,7 @@
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from os import path
+from flask_login import LoginManager, login_manager
 
 db = SQLAlchemy()
 DB_NAME = "database.db"
@@ -18,13 +19,28 @@ def create_app():
     app.register_blueprint(views, url_prefix='/')
     app.register_blueprint(auth, url_prefix='/')
 
-    from .models import Employee, Supervisor, Admin
+    # from .models import Employee, Supervisor, Admin
+    # create_database(app)
+
+    from .models import Employee,Tasks, Supervisor, Admin
     create_database(app)
+    login_manager = LoginManager()
+    login_manager.login_view='auth.login'
+    login_manager.init_app(app)
+
+    @login_manager.user_loader
+    def load_user(id):
+        return Employee.query.get(int(id))
+
 
     return app
 
-
 def create_database(app):
-    if not path.exists('periscope/' + DB_NAME):
+    if not path.exists('periscope/'+DB_NAME):
         db.create_all(app=app)
-        print("Created Database")
+        print("Created Database!!!")
+
+# def create_database(app):
+#     if not path.exists('periscope/' + DB_NAME):
+#         db.create_all(app=app)
+#         print("Created Database")

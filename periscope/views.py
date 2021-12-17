@@ -1,6 +1,7 @@
 import re
 from flask import Flask,Blueprint, render_template, jsonify, request
 import time
+from flask_login import login_required,  current_user
 
 
 views = Blueprint('views', __name__)
@@ -61,6 +62,7 @@ def quit_url():
 
 
 @views.route('/em/')
+@login_required
 def home():
     return render_template("employee.html")
 
@@ -82,7 +84,8 @@ def activity():
     site_list = new_urlViewtime.values()
     site_sum = sum(site_list)
     for k, v in new_urlViewtime.items():
-        new_urlViewtime[k] = round(v / site_sum * 100)
+        if site_sum > 0:
+            new_urlViewtime[k] = round(v / site_sum * 100)
 
     x = list(new_urlViewtime.keys())
     y = list(new_urlViewtime.values())
@@ -91,6 +94,9 @@ def activity():
     for url in allowed_urls:
         if url in x:
             activity += y[x.index(url)]
+            if activity > 100:
+                activity = 100
+
     
     return render_template("activity.html",new_urlViewtime=new_urlViewtime, disp = list( new_urlViewtime.items()),x=x, y=y, activity=activity)
     
