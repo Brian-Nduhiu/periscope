@@ -19,8 +19,7 @@ def create_app():
     app.register_blueprint(views, url_prefix='/')
     app.register_blueprint(auth, url_prefix='/')
 
-    # from .models import Employee, Supervisor, Admin
-    # create_database(app)
+
 
     from .models import Employee,Tasks, Supervisor, Admin
     create_database(app)
@@ -40,7 +39,3 @@ def create_database(app):
         db.create_all(app=app)
         print("Created Database!!!")
 
-# def create_database(app):
-#     if not path.exists('periscope/' + DB_NAME):
-#         db.create_all(app=app)
-#         print("Created Database")
