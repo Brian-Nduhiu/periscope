@@ -1,11 +1,72 @@
 {% extends "base.html" %}
 
 {%block content%}
+<div>
+    <div 
+    style="
+    position: fixed;
+    height: 600px;
+    width: 1015px;
+    left: 165px;
+    
+    top: 85px;
+    ">
+        <div 
+        style="
+        margin: 0;
+        display: flex;
+        position: relative;
+        left: 300px;
+        top: 10px;
+        ">
+            <h1 
+            style="
+            padding-top: 20px;
+        ">Your activity:</h1>
+            <h1
+            style="
+        padding-left: 25px;
+        padding-top: 25px;
+        padding-right: 25px;
+        padding-bottom: 25px;
+        background-color: darkcyan;
+        margin-left: 10px;
+    "
+            >{{activity}}%</h1>
+        </div>
+        
+       
+        
+        <!-- <ul style="margin: 0;"> -->
+            
+            <!-- <li>{{item}}</li> -->
+            <div style="overflow: scroll; height: 400px;">
+                <ul class="list-group" style="margin-bottom: 50px; margin-top: 15px;">
+                    {% for item in disp %}
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                      {{item[0]}}
+                      <span class="badge bg-primary rounded-pill">{{item[1]}}</span>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            
+            
+        <!-- </ul> -->
+    
 
-<ul style="margin-top: 100px;">
-    {% for item in disp %}
-    <li>{{item}}</li>
-    {% endfor %}
-</ul>
+        <!--<h1>{{x}}</h1>
+        <h1>{{y}}</h1> -->
+    
+    
+        <!-- <h1>{{disp}}</h1>-->
+    
+        
+    
+    
+    </div>
+</div>
+
+
 
 {%endblock%}

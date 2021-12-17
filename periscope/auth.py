@@ -1,4 +1,7 @@
 from flask import Blueprint, render_template, request
+from .models import Employee
+from werkzeug.security import generate_password_hash, check_password_hash
+from . import db 
 
 auth = Blueprint('auth', __name__)
 
@@ -14,8 +17,8 @@ def logout():
 @auth.route('/admin/em/signup', methods=['GET', 'POST'])
 def signup():
     if request.method == 'POST':
-        firstName = request.form.get('firstName')
-        lastName = request.form.get('lastName')
+        first_name = request.form.get('firstName')
+        last_name = request.form.get('lastName')
         email = request.form.get('email')
         password1 = request.form.get('password1')
         password2 = request.form.get('password2')
@@ -26,6 +29,9 @@ def signup():
             pass
         else:
             #add user to database
+            new_employee = Employee(email=email, first_name=first_name, last_name=last_name, password = generate_password_hash(password1, method='sha256'))
+            db.session.add(new_employee)
+            db.session.commit()
             pass
 
     return render_template("signup.html")

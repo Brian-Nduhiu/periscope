@@ -79,6 +79,20 @@ def tasks():
 @views.route('/em/activity')
 def activity():
     new_urlViewtime = {k: v for k, v in sorted(url_viewtime.items(), key= lambda v: v[1], reverse=True)}
-    return render_template("activity.html", disp = list( new_urlViewtime.items()))
+    site_list = new_urlViewtime.values()
+    site_sum = sum(site_list)
+    for k, v in new_urlViewtime.items():
+        new_urlViewtime[k] = round(v / site_sum * 100)
+
+    x = list(new_urlViewtime.keys())
+    y = list(new_urlViewtime.values())
+    activity = 0
+    allowed_urls = ['127.0.0.1:5000','extractor.hubdoc.com','stackoverflow.com']
+    for url in allowed_urls:
+        if url in x:
+            activity += y[x.index(url)]
+    
+    return render_template("activity.html",new_urlViewtime=new_urlViewtime, disp = list( new_urlViewtime.items()),x=x, y=y, activity=activity)
+    
 
 

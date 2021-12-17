@@ -13,7 +13,7 @@ class Employee(db.Model, UserMixin):
     password = db.Column(db.String(150))
     first_name = db.Column(db.String(150))
     last_name = db.Column(db.String(150))
-    shift = db.relationship('Shift')
+    # shift = db.relationship('Shift')
 
 
 class Supervisor(db.Model, UserMixin):
@@ -30,9 +30,9 @@ class Admin(db.Model, UserMixin):
     first_name = db.Column(db.String(150))
     last_name = db.Column(db.String(150))
 
-class Shift(db.Model):
-    id.Column(db.Integer, primary_key=True)
-    employee_id = db.Column(db.Integer, db.ForeignKey('employee.id'))
-    date = db.Column(db.DateTime(timezone=True), default=func.now())
-    sites = db.Column(db.String(100000))
-    activity = db.Column(db.Integer)
+# class Shift(db.Model):
+#     id = db.Column(db.Integer, primary_key=True)
+#     employee_id = db.Column(db.Integer, db.ForeignKey('employee.id'))
+#     date = db.Column(db.DateTime(timezone=True), default=func.now())
+#     sites = db.Column(db.String(100000))
+#     activity = db.Column(db.Integer)

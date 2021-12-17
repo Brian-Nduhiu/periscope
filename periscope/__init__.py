@@ -18,7 +18,8 @@ def create_app():
     app.register_blueprint(views, url_prefix='/')
     app.register_blueprint(auth, url_prefix='/')
 
-    from .models import Employee, Supervisor, Admin, Shift
+    from .models import Employee, Supervisor, Admin
+    create_database(app)
 
     return app
 
