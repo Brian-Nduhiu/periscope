@@ -3,7 +3,7 @@
 {%block content%}
 <h1 style="margin-top: 100px;">Activity Data</h1>
 <ul >
-    {% for shift in shiftdate %}
+    {% for shift in shiftdata %}
     <li>{{ shift.id }}, {{shift.activity_score}}</li>
     {% endfor %}
 </ul>

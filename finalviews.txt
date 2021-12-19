@@ -3027,3 +3027,15 @@
 {'chrome:': 0}
 {'chrome:': 0}
 {'chrome:': 20, 'www.google.com': 0}
+{'chrome:': 20, 'www.google.com': 495, '127.0.0.1:5000': 0}
+{'chrome:': 20, 'www.google.com': 495, '127.0.0.1:5000': 54}
+{'chrome:': 20, 'www.google.com': 517, '127.0.0.1:5000': 54}
+{'chrome:': 20, 'www.google.com': 521, '127.0.0.1:5000': 54, 'www.sqlitetutorial.net': 0}
+{'chrome:': 20, 'www.google.com': 521, '127.0.0.1:5000': 54, 'www.sqlitetutorial.net': 21}
+{'chrome:': 20, 'www.google.com': 521, '127.0.0.1:5000': 54, 'www.sqlitetutorial.net': 26}
+{'chrome:': 20, 'www.google.com': 521, '127.0.0.1:5000': 54, 'www.sqlitetutorial.net': 28}
+{'chrome:': 20, 'www.google.com': 525, '127.0.0.1:5000': 54, 'www.sqlitetutorial.net': 28}
+{'chrome:': 20, 'www.google.com': 529, '127.0.0.1:5000': 54, 'www.sqlitetutorial.net': 28, 'stackoverflow.com': 0}
+{'chrome:': 20, 'www.google.com': 529, '127.0.0.1:5000': 54, 'www.sqlitetutorial.net': 28, 'stackoverflow.com': 68, 'www.youtube.com': 0}
+{'chrome:': 20, 'www.google.com': 529, '127.0.0.1:5000': 54, 'www.sqlitetutorial.net': 28, 'stackoverflow.com': 68, 'www.youtube.com': 16}
+{'chrome:': 20, 'www.google.com': 529, '127.0.0.1:5000': 54, 'www.sqlitetutorial.net': 28, 'stackoverflow.com': 68, 'www.youtube.com': 46}
