@@ -6,6 +6,8 @@ from sqlalchemy.sql.functions import user
 from . models import Employee, Tasks, Supervisor, Admin, Shift
 from . import db
 import json
+from datetime import datetime, date  
+import time
 
 
 views = Blueprint('views', __name__)
@@ -70,9 +72,7 @@ def quit_url():
 def home():
     return render_template("employee.html")
 
-@views.route('/em/breakdown')
-def breakpoint():
-    return render_template("shift_breakdown.html")
+
 
 @views.route('/em/shifts')
 def shifts():
@@ -91,6 +91,7 @@ def activity():
 
     x = list(new_urlViewtime.keys())
     y = list(new_urlViewtime.values())
+    global activity
     activity = 0
     allowed_urls = ['127.0.0.1:5000','extractor.hubdoc.com','stackoverflow.com']
     for url in allowed_urls:
@@ -102,7 +103,10 @@ def activity():
     
     return render_template("activity.html",new_urlViewtime=new_urlViewtime, disp = list( new_urlViewtime.items()),x=x, y=y, activity=activity)
     
-
+@views.route('/em/breakdown')
+def breakdown():
+    
+    return render_template("shift_breakdown.html")
 
 @views.route('/sup/')
 def sup_home():
@@ -124,9 +128,12 @@ def create_tasks():
     if request.method == 'POST':
         task = request.form.get('task')
         employeeId = request.form.get('employeeId')
+        # date = datetime(int(request.form.get('date')))
+        date = request.form.get('date')
+        date = datetime.strptime(date, '%Y-%m-%d')
         
 
-        new_task = Tasks(data=task, user_id=employeeId)
+        new_task = Tasks(data=task, user_id=employeeId, date = date)
         
         db.session.add(new_task)
         db.session.commit()
@@ -136,8 +143,11 @@ def create_tasks():
 
 @views.route('/em/tasks')
 def tasks():
-    
-    return render_template("tasks.html",)
+    tasksList = db.session.query(Tasks)
+    user_id=current_user.id
+    today = date.today().isoformat()
+
+    return render_template("tasks.html", tasksList = tasksList, user_id=user_id, today=today)
 
 
 @views.route('/sup/activity', )

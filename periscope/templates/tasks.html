@@ -2,8 +2,34 @@
 
 {%block content%}
 
-{% for task in tasksList%}
+
+<div style="
+width: 1000px;
+margin-left: 185px;
+">
+
+    <h1 style="margin-top: 100px;" align="center">Your Tasks</h1>
+    <br>
+
+
+    <ol class="list-group list-group-numbered" id="tasks"  style="margin-bottom: 200px;">
+        
+        {% for task in tasksList%}
+        
+       
+        {% if task.user_id == user_id %}
     
+    <li class="list-group-item" >{{task.data}}</li>
+    </li>
     
+    {% endif %}
     {% endfor %}
+    </ol> 
+
+</div>
+
+
+    
+
+
 {%endblock%}

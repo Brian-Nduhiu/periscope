@@ -8,7 +8,7 @@
     <h3 style="margin-top: 20px;">Employee IDs</h3>
     <ul style="margin-bottom:0 ;" class="list-group">
         {% for employee in employees %}
-        <li class="list-group-item d-flex justify-content-between align-items-center">{{employee.email}}
+        <li class="list-group-item d-flex justify-content-between align-items-center">{{employee.email}} 
             <span class="badge bg-primary rounded-pill">{{employee.id}}</span> 
             </li>
         {% endfor %}
@@ -18,6 +18,10 @@
     <form method="POST">
         <label for="employeeId">Enter Employee ID</label>
         <textarea name="employeeId" id="employeeId" class="form-control"></textarea>
+        <br>
+        <label for="date">Enter Date</label>
+        <input type="date" name="date" id="date">
+        <br>
         <label for="employeeId">Enter Task</label>
         <textarea name="task" id="task" class="form-control"></textarea>
     <br>
@@ -25,12 +29,16 @@
         <button type="submit" class="btn btn-primary" style="margin-bottom: 40px;">Add Tasks</button>
     </div>
 </form>
+
+
+
+
     <!-- <h3>Tasks Assigned Today</h3>
 
     <ul class="list-group list-group-flush" id="tasks" >
         {% for task in tasksList%}
     
-    <li class="list-group-item" align="center">{{task.data}}, {{task.user_id}}</li>
+    <li class="list-group-item" align="center">{{task.data}}, {{task.user_id}}, {{task.date}}</li>
     </li>
     {% endfor %}
     </ul> -->

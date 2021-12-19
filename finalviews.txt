@@ -2597,3 +2597,273 @@
 {'getbootstrap.com': 130, 'www.youtube.com': 205, '127.0.0.1:5000': 574, '': 0, 'chrome:': 17, 'todoist.com': 92, 'www.google.com': 125, 'www.aafp.org': 302}
 {'getbootstrap.com': 130, 'www.youtube.com': 797, '127.0.0.1:5000': 574, '': 0, 'chrome:': 17, 'todoist.com': 92, 'www.google.com': 125, 'www.aafp.org': 302}
 {'getbootstrap.com': 130, 'www.youtube.com': 799, '127.0.0.1:5000': 574, '': 0, 'chrome:': 17, 'todoist.com': 92, 'www.google.com': 125, 'www.aafp.org': 302}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 5}
+{'127.0.0.1:5000': 14}
+{'127.0.0.1:5000': 17}
+{'127.0.0.1:5000': 74, 'github.com': 0}
+{'www.youtube.com': 0}
+{'www.youtube.com': 10}
+{'www.youtube.com': 44, '127.0.0.1:5000': 0}
+{'www.youtube.com': 44, '127.0.0.1:5000': 360}
+{'www.youtube.com': 44, '127.0.0.1:5000': 364}
+{'www.youtube.com': 44, '127.0.0.1:5000': 367}
+{'www.youtube.com': 44, '127.0.0.1:5000': 447, 'getbootstrap.com': 0}
+{'www.youtube.com': 44, '127.0.0.1:5000': 447, 'getbootstrap.com': 41}
+{'www.youtube.com': 44, '127.0.0.1:5000': 626, 'getbootstrap.com': 41}
+{'www.youtube.com': 44, '127.0.0.1:5000': 634, 'getbootstrap.com': 41}
+{'www.youtube.com': 44, '127.0.0.1:5000': 636, 'getbootstrap.com': 41}
+{'www.youtube.com': 44, '127.0.0.1:5000': 641, 'getbootstrap.com': 41}
+{'www.youtube.com': 44, '127.0.0.1:5000': 647, 'getbootstrap.com': 41}
+{'www.youtube.com': 44, '127.0.0.1:5000': 656, 'getbootstrap.com': 41}
+{'www.youtube.com': 44, '127.0.0.1:5000': 663, 'getbootstrap.com': 41}
+{'www.youtube.com': 44, '127.0.0.1:5000': 665, 'getbootstrap.com': 41}
+{'www.youtube.com': 44, '127.0.0.1:5000': 688, 'getbootstrap.com': 41, 'todoist.com': 0}
+{'www.youtube.com': 44, '127.0.0.1:5000': 688, 'getbootstrap.com': 41, 'todoist.com': 6}
+{'www.youtube.com': 46, '127.0.0.1:5000': 688, 'getbootstrap.com': 41, 'todoist.com': 6}
+{'www.youtube.com': 61, '127.0.0.1:5000': 688, 'getbootstrap.com': 41, 'todoist.com': 6}
+{'www.youtube.com': 61, '127.0.0.1:5000': 688, 'getbootstrap.com': 41, 'todoist.com': 8}
+{'www.youtube.com': 71, '127.0.0.1:5000': 688, 'getbootstrap.com': 41, 'todoist.com': 8}
+{'www.youtube.com': 71, '127.0.0.1:5000': 688, 'getbootstrap.com': 81, 'todoist.com': 8}
+{'www.youtube.com': 71, '127.0.0.1:5000': 691, 'getbootstrap.com': 81, 'todoist.com': 8}
+{'www.youtube.com': 71, '127.0.0.1:5000': 719, 'getbootstrap.com': 81, 'todoist.com': 8}
+{'www.youtube.com': 71, '127.0.0.1:5000': 719, 'getbootstrap.com': 109, 'todoist.com': 8}
+{'www.youtube.com': 71, '127.0.0.1:5000': 724, 'getbootstrap.com': 109, 'todoist.com': 8}
+{'www.youtube.com': 97, '127.0.0.1:5000': 724, 'getbootstrap.com': 109, 'todoist.com': 8}
+{'www.youtube.com': 97, '127.0.0.1:5000': 735, 'getbootstrap.com': 109, 'todoist.com': 8}
+{'www.youtube.com': 98, '127.0.0.1:5000': 735, 'getbootstrap.com': 109, 'todoist.com': 8}
+{'www.youtube.com': 99, '127.0.0.1:5000': 735, 'getbootstrap.com': 109, 'todoist.com': 8}
+{'www.youtube.com': 99, '127.0.0.1:5000': 735, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 132, '127.0.0.1:5000': 735, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 132, '127.0.0.1:5000': 744, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 142, '127.0.0.1:5000': 744, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 142, '127.0.0.1:5000': 747, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 180, '127.0.0.1:5000': 747, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 180, '127.0.0.1:5000': 749, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 180, '127.0.0.1:5000': 753, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 180, '127.0.0.1:5000': 756, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 180, '127.0.0.1:5000': 762, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 180, '127.0.0.1:5000': 768, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 183, '127.0.0.1:5000': 768, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 195, '127.0.0.1:5000': 768, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 195, '127.0.0.1:5000': 777, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 195, '127.0.0.1:5000': 780, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 195, '127.0.0.1:5000': 813, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 235, '127.0.0.1:5000': 813, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 251, '127.0.0.1:5000': 813, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 284, '127.0.0.1:5000': 813, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 4649, '127.0.0.1:5000': 813, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 6325, '127.0.0.1:5000': 813, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 6380, '127.0.0.1:5000': 813, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 6897, '127.0.0.1:5000': 813, 'getbootstrap.com': 109, 'todoist.com': 9}
+{'www.youtube.com': 16278, '127.0.0.1:5000': 813, 'getbootstrap.com': 109, 'todoist.com': 9, 'github.com': 0}
+{'www.youtube.com': 16278, '127.0.0.1:5000': 813, 'getbootstrap.com': 109, 'todoist.com': 9, 'github.com': 2}
+{'www.youtube.com': 16278, '127.0.0.1:5000': 818, 'getbootstrap.com': 109, 'todoist.com': 9, 'github.com': 2}
+{'www.youtube.com': 16279, '127.0.0.1:5000': 818, 'getbootstrap.com': 109, 'todoist.com': 9, 'github.com': 2}
+{'www.youtube.com': 16279, '127.0.0.1:5000': 818, 'getbootstrap.com': 109, 'todoist.com': 9, 'github.com': 2}
+{'www.youtube.com': 16279, '127.0.0.1:5000': 818, 'getbootstrap.com': 110, 'todoist.com': 9, 'github.com': 2}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 818, 'getbootstrap.com': 110, 'todoist.com': 9, 'github.com': 2}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 818, 'getbootstrap.com': 110, 'todoist.com': 10, 'github.com': 2}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 832, 'getbootstrap.com': 110, 'todoist.com': 10, 'github.com': 2}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 832, 'getbootstrap.com': 110, 'todoist.com': 12, 'github.com': 2}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 110, 'todoist.com': 12, 'github.com': 2}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 119, 'todoist.com': 12, 'github.com': 2}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 125, 'todoist.com': 12, 'github.com': 2}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 143, 'todoist.com': 12, 'github.com': 2}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 149, 'todoist.com': 12, 'github.com': 2}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 185, 'todoist.com': 12, 'github.com': 2}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 229, 'todoist.com': 12, 'github.com': 2}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 244, 'todoist.com': 12, 'github.com': 2}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 278, 'todoist.com': 12, 'github.com': 2}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 332, 'todoist.com': 12, 'github.com': 2}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 371, 'todoist.com': 12, 'github.com': 2}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 390, 'todoist.com': 12, 'github.com': 2}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 432, 'todoist.com': 12, 'github.com': 2, 'chrome:': 0}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 432, 'todoist.com': 12, 'github.com': 2, 'chrome:': 0}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 432, 'todoist.com': 12, 'github.com': 2, 'chrome:': 9, 'www.google.com': 0}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 432, 'todoist.com': 12, 'github.com': 2, 'chrome:': 9, 'www.google.com': 7, 'www.w3schools.com': 0}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 432, 'todoist.com': 12, 'github.com': 2, 'chrome:': 9, 'www.google.com': 7, 'www.w3schools.com': 10, '': 0}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 432, 'todoist.com': 12, 'github.com': 2, 'chrome:': 9, 'www.google.com': 7, 'www.w3schools.com': 10, '': 0}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 861, 'getbootstrap.com': 432, 'todoist.com': 12, 'github.com': 2, 'chrome:': 9, 'www.google.com': 7, 'www.w3schools.com': 50, '': 0}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 867, 'getbootstrap.com': 432, 'todoist.com': 12, 'github.com': 2, 'chrome:': 9, 'www.google.com': 7, 'www.w3schools.com': 50, '': 0}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 871, 'getbootstrap.com': 432, 'todoist.com': 12, 'github.com': 2, 'chrome:': 9, 'www.google.com': 7, 'www.w3schools.com': 50, '': 0}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 875, 'getbootstrap.com': 432, 'todoist.com': 12, 'github.com': 2, 'chrome:': 9, 'www.google.com': 7, 'www.w3schools.com': 50, '': 0}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 924, 'getbootstrap.com': 432, 'todoist.com': 12, 'github.com': 2, 'chrome:': 9, 'www.google.com': 7, 'www.w3schools.com': 50, '': 0}
+{'www.youtube.com': 16280, '127.0.0.1:5000': 924, 'getbootstrap.com': 432, 'todoist.com': 12, 'github.com': 2, 'chrome:': 9, 'www.google.com': 7, 'www.w3schools.com': 91, '': 0}
+{'': 0}
+{'': 0, 'www.google.com': 0}
+{'': 0, 'www.google.com': 3, 'stackoverflow.com': 0}
+{'': 0, 'www.google.com': 3, 'stackoverflow.com': 42, '127.0.0.1:5000': 0}
+{'': 0, 'www.google.com': 3, 'stackoverflow.com': 42, '127.0.0.1:5000': 30}
+{'': 0, 'www.google.com': 3, 'stackoverflow.com': 42, '127.0.0.1:5000': 30}
+{'': 0, 'www.google.com': 8, 'stackoverflow.com': 42, '127.0.0.1:5000': 30}
+{'chrome:': 0}
+{'chrome:': 10, 'www.google.com': 0}
+{'chrome:': 10, 'www.google.com': 7}
+{'chrome:': 10, 'www.google.com': 10, 'careerkarma.com': 0}
+{'chrome:': 10, 'www.google.com': 10, 'careerkarma.com': 23}
+{'chrome:': 10, 'www.google.com': 14, 'careerkarma.com': 23, 'www.geeksforgeeks.org': 0}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 37, '': 0}
+{'127.0.0.1:5000': 37, '': 0, 'chrome:': 0}
+{'127.0.0.1:5000': 37, '': 0, 'chrome:': 13, 'www.google.com': 0}
+{'127.0.0.1:5000': 37, '': 0, 'chrome:': 13, 'www.google.com': 12, 'careerkarma.com': 0}
+{'127.0.0.1:5000': 37, '': 0, 'chrome:': 13, 'www.google.com': 12, 'careerkarma.com': 3}
+{'127.0.0.1:5000': 37, '': 0, 'chrome:': 13, 'www.google.com': 12, 'careerkarma.com': 30}
+{'127.0.0.1:5000': 37, '': 0, 'chrome:': 13, 'www.google.com': 12, 'careerkarma.com': 30}
+{'127.0.0.1:5000': 37, '': 0, 'chrome:': 13, 'www.google.com': 12, 'careerkarma.com': 31}
+{'127.0.0.1:5000': 37, '': 0, 'chrome:': 13, 'www.google.com': 12, 'careerkarma.com': 92, 'www.geeksforgeeks.org': 0}
+{'127.0.0.1:5000': 37, '': 0, 'chrome:': 13, 'www.google.com': 12, 'careerkarma.com': 92, 'www.geeksforgeeks.org': 2, 'www.w3schools.com': 0}
+{'127.0.0.1:5000': 37, '': 0, 'chrome:': 13, 'www.google.com': 12, 'careerkarma.com': 92, 'www.geeksforgeeks.org': 2, 'www.w3schools.com': 1}
+{'127.0.0.1:5000': 37, '': 0, 'chrome:': 13, 'www.google.com': 12, 'careerkarma.com': 92, 'www.geeksforgeeks.org': 2, 'www.w3schools.com': 5}
+{'127.0.0.1:5000': 37, '': 0, 'chrome:': 13, 'www.google.com': 12, 'careerkarma.com': 92, 'www.geeksforgeeks.org': 2, 'www.w3schools.com': 5}
+{'127.0.0.1:5000': 37, '': 0, 'chrome:': 22, 'www.google.com': 12, 'careerkarma.com': 92, 'www.geeksforgeeks.org': 2, 'www.w3schools.com': 5}
+{'127.0.0.1:5000': 37, '': 0, 'chrome:': 22, 'www.google.com': 19, 'careerkarma.com': 92, 'www.geeksforgeeks.org': 2, 'www.w3schools.com': 5}
+{'127.0.0.1:5000': 37, '': 0, 'chrome:': 22, 'www.google.com': 19, 'careerkarma.com': 92, 'www.geeksforgeeks.org': 2, 'www.w3schools.com': 24}
+{'127.0.0.1:5000': 40, '': 0, 'chrome:': 22, 'www.google.com': 19, 'careerkarma.com': 92, 'www.geeksforgeeks.org': 2, 'www.w3schools.com': 24}
+{'127.0.0.1:5000': 40, '': 0, 'chrome:': 22, 'www.google.com': 19, 'careerkarma.com': 92, 'www.geeksforgeeks.org': 2, 'www.w3schools.com': 47}
+{'127.0.0.1:5000': 40, '': 0, 'chrome:': 22, 'www.google.com': 19, 'careerkarma.com': 92, 'www.geeksforgeeks.org': 2, 'www.w3schools.com': 47}
+{'127.0.0.1:5000': 40, '': 0, 'chrome:': 22, 'www.google.com': 19, 'careerkarma.com': 92, 'www.geeksforgeeks.org': 2, 'www.w3schools.com': 80}
+{'127.0.0.1:5000': 40, '': 0, 'chrome:': 22, 'www.google.com': 19, 'careerkarma.com': 92, 'www.geeksforgeeks.org': 2, 'www.w3schools.com': 82}
+{'127.0.0.1:5000': 40, '': 0, 'chrome:': 22, 'www.google.com': 19, 'careerkarma.com': 92, 'www.geeksforgeeks.org': 2, 'www.w3schools.com': 82}
+{'127.0.0.1:5000': 40, '': 0, 'chrome:': 22, 'www.google.com': 19, 'careerkarma.com': 92, 'www.geeksforgeeks.org': 2, 'www.w3schools.com': 128}
+{'127.0.0.1:5000': 41, '': 0, 'chrome:': 22, 'www.google.com': 19, 'careerkarma.com': 92, 'www.geeksforgeeks.org': 2, 'www.w3schools.com': 128, 'stackoverflow.com': 0}
+{'chrome:': 0}
+{'chrome:': 1}
+{'chrome:': 32, 'www.google.com': 0}
+{'chrome:': 32, 'www.google.com': 5, 'stackoverflow.com': 0}
+{'chrome:': 32, 'www.google.com': 5, 'stackoverflow.com': 86, 'docs.python.org': 0}
+{'docs.python.org': 0}
+{'docs.python.org': 26}
+{'docs.python.org': 27, 'stackoverflow.com': 0}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 12, 'stackoverflow.com': 0}
+{'127.0.0.1:5000': 12, 'stackoverflow.com': 6}
+{'127.0.0.1:5000': 17, 'stackoverflow.com': 6, '': 0}
+{'127.0.0.1:5000': 17, 'stackoverflow.com': 6, '': 0, 'www.google.com': 0}
+{'127.0.0.1:5000': 17, 'stackoverflow.com': 6, '': 0, 'www.google.com': 8}
+{'127.0.0.1:5000': 17, 'stackoverflow.com': 7, '': 0, 'www.google.com': 8}
+{'127.0.0.1:5000': 17, 'stackoverflow.com': 8, '': 0, 'www.google.com': 8}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 137, 'stackoverflow.com': 0}
+{'127.0.0.1:5000': 137, 'stackoverflow.com': 1}
+{'127.0.0.1:5000': 137, 'stackoverflow.com': 3, 'www.youtube.com': 0}
+{'127.0.0.1:5000': 137, 'stackoverflow.com': 3, 'www.youtube.com': 3}
+{'127.0.0.1:5000': 158, 'stackoverflow.com': 3, 'www.youtube.com': 3}
+{'127.0.0.1:5000': 158, 'stackoverflow.com': 3, 'www.youtube.com': 9, 'getbootstrap.com': 0}
+{'127.0.0.1:5000': 158, 'stackoverflow.com': 3, 'www.youtube.com': 9, 'getbootstrap.com': 7, 'todoist.com': 0}
+{'127.0.0.1:5000': 158, 'stackoverflow.com': 3, 'www.youtube.com': 9, 'getbootstrap.com': 7, 'todoist.com': 12}
+{'127.0.0.1:5000': 161, 'stackoverflow.com': 3, 'www.youtube.com': 9, 'getbootstrap.com': 7, 'todoist.com': 12}
+{'127.0.0.1:5000': 166, 'stackoverflow.com': 3, 'www.youtube.com': 9, 'getbootstrap.com': 7, 'todoist.com': 12}
+{'127.0.0.1:5000': 168, 'stackoverflow.com': 3, 'www.youtube.com': 9, 'getbootstrap.com': 7, 'todoist.com': 12}
+{'127.0.0.1:5000': 282, 'stackoverflow.com': 3, 'www.youtube.com': 9, 'getbootstrap.com': 7, 'todoist.com': 12, 'chrome:': 0}
+{'127.0.0.1:5000': 282, 'stackoverflow.com': 3, 'www.youtube.com': 9, 'getbootstrap.com': 7, 'todoist.com': 12, 'chrome:': 0}
+{'127.0.0.1:5000': 282, 'stackoverflow.com': 3, 'www.youtube.com': 9, 'getbootstrap.com': 7, 'todoist.com': 12, 'chrome:': 11, 'www.google.com': 0}
+{'127.0.0.1:5000': 282, 'stackoverflow.com': 3, 'www.youtube.com': 9, 'getbootstrap.com': 7, 'todoist.com': 12, 'chrome:': 11, 'www.google.com': 16}
+{'stackoverflow.com': 0}
+{'docs.python.org': 0}
+{'docs.python.org': 24, '127.0.0.1:5000': 0}
+{'docs.python.org': 24, '127.0.0.1:5000': 15}
+{'docs.python.org': 24, '127.0.0.1:5000': 19}
+{'docs.python.org': 24, '127.0.0.1:5000': 22}
+{'docs.python.org': 24, '127.0.0.1:5000': 45}
+{'docs.python.org': 24, '127.0.0.1:5000': 49}
+{'docs.python.org': 24, '127.0.0.1:5000': 52}
+{'docs.python.org': 24, '127.0.0.1:5000': 198, 'chrome:': 0}
+{'docs.python.org': 24, '127.0.0.1:5000': 198, 'chrome:': 0}
+{'docs.python.org': 24, '127.0.0.1:5000': 198, 'chrome:': 29, 'www.google.com': 0}
+{'docs.python.org': 24, '127.0.0.1:5000': 198, 'chrome:': 29, 'www.google.com': 7, 'careerkarma.com': 0}
+{'docs.python.org': 24, '127.0.0.1:5000': 198, 'chrome:': 29, 'www.google.com': 7, 'careerkarma.com': 47}
+{'docs.python.org': 24, '127.0.0.1:5000': 198, 'chrome:': 29, 'www.google.com': 7, 'careerkarma.com': 47}
+{'docs.python.org': 24, '127.0.0.1:5000': 198, 'chrome:': 46, 'www.google.com': 7, 'careerkarma.com': 47}
+{'docs.python.org': 24, '127.0.0.1:5000': 198, 'chrome:': 46, 'www.google.com': 10, 'careerkarma.com': 47}
+{'docs.python.org': 24, '127.0.0.1:5000': 198, 'chrome:': 46, 'www.google.com': 10, 'careerkarma.com': 50}
+{'docs.python.org': 24, '127.0.0.1:5000': 198, 'chrome:': 46, 'www.google.com': 10, 'careerkarma.com': 99}
+{'docs.python.org': 24, '127.0.0.1:5000': 266, 'chrome:': 46, 'www.google.com': 10, 'careerkarma.com': 99}
+{'docs.python.org': 24, '127.0.0.1:5000': 266, 'chrome:': 46, 'www.google.com': 10, 'careerkarma.com': 106, '': 0}
+{'docs.python.org': 24, '127.0.0.1:5000': 266, 'chrome:': 46, 'www.google.com': 10, 'careerkarma.com': 106, '': 0}
+{'docs.python.org': 24, '127.0.0.1:5000': 266, 'chrome:': 57, 'www.google.com': 10, 'careerkarma.com': 106, '': 0}
+{'docs.python.org': 24, '127.0.0.1:5000': 266, 'chrome:': 57, 'www.google.com': 13, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 0}
+{'docs.python.org': 24, '127.0.0.1:5000': 266, 'chrome:': 57, 'www.google.com': 13, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 6}
+{'docs.python.org': 24, '127.0.0.1:5000': 266, 'chrome:': 57, 'www.google.com': 42, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 6}
+{'docs.python.org': 24, '127.0.0.1:5000': 266, 'chrome:': 57, 'www.google.com': 56, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 6}
+{'docs.python.org': 24, '127.0.0.1:5000': 266, 'chrome:': 57, 'www.google.com': 56, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 22}
+{'docs.python.org': 24, '127.0.0.1:5000': 266, 'chrome:': 57, 'www.google.com': 56, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 22}
+{'docs.python.org': 24, '127.0.0.1:5000': 266, 'chrome:': 57, 'www.google.com': 56, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 48}
+{'docs.python.org': 24, '127.0.0.1:5000': 266, 'chrome:': 57, 'www.google.com': 56, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 60}
+{'docs.python.org': 24, '127.0.0.1:5000': 266, 'chrome:': 57, 'www.google.com': 56, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 65}
+{'docs.python.org': 24, '127.0.0.1:5000': 266, 'chrome:': 57, 'www.google.com': 56, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 65}
+{'docs.python.org': 24, '127.0.0.1:5000': 266, 'chrome:': 57, 'www.google.com': 56, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 72}
+{'docs.python.org': 24, '127.0.0.1:5000': 271, 'chrome:': 57, 'www.google.com': 56, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 72}
+{'docs.python.org': 24, '127.0.0.1:5000': 271, 'chrome:': 57, 'www.google.com': 56, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 85}
+{'docs.python.org': 24, '127.0.0.1:5000': 277, 'chrome:': 57, 'www.google.com': 56, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 85}
+{'docs.python.org': 24, '127.0.0.1:5000': 277, 'chrome:': 57, 'www.google.com': 56, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 148}
+{'docs.python.org': 24, '127.0.0.1:5000': 298, 'chrome:': 57, 'www.google.com': 56, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 148}
+{'docs.python.org': 24, '127.0.0.1:5000': 298, 'chrome:': 57, 'www.google.com': 56, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 148}
+{'docs.python.org': 24, '127.0.0.1:5000': 298, 'chrome:': 74, 'www.google.com': 56, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 148}
+{'docs.python.org': 24, '127.0.0.1:5000': 298, 'chrome:': 74, 'www.google.com': 60, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 148, 'stackoverflow.com': 0}
+{'docs.python.org': 24, '127.0.0.1:5000': 298, 'chrome:': 74, 'www.google.com': 60, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 148, 'stackoverflow.com': 52}
+{'docs.python.org': 24, '127.0.0.1:5000': 314, 'chrome:': 74, 'www.google.com': 60, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 148, 'stackoverflow.com': 52}
+{'docs.python.org': 24, '127.0.0.1:5000': 314, 'chrome:': 74, 'www.google.com': 60, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 148, 'stackoverflow.com': 62}
+{'docs.python.org': 24, '127.0.0.1:5000': 346, 'chrome:': 74, 'www.google.com': 60, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 148, 'stackoverflow.com': 62}
+{'docs.python.org': 24, '127.0.0.1:5000': 346, 'chrome:': 74, 'www.google.com': 60, 'careerkarma.com': 106, '': 0, 'www.w3schools.com': 148, 'stackoverflow.com': 67}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 101, 'www.google.com': 0}
+{'127.0.0.1:5000': 101, 'www.google.com': 12}
+{'127.0.0.1:5000': 101, 'www.google.com': 17}
+{'127.0.0.1:5000': 101, 'www.google.com': 25, 'www.geeksforgeeks.org': 0}
+{'127.0.0.1:5000': 101, 'www.google.com': 25, 'www.geeksforgeeks.org': 58}
+{'127.0.0.1:5000': 106, 'www.google.com': 25, 'www.geeksforgeeks.org': 58, 'www.w3schools.com': 0}
+{'127.0.0.1:5000': 106, 'www.google.com': 25, 'www.geeksforgeeks.org': 58, 'www.w3schools.com': 1}
+{'127.0.0.1:5000': 106, 'www.google.com': 25, 'www.geeksforgeeks.org': 107, 'www.w3schools.com': 1}
+{'127.0.0.1:5000': 106, 'www.google.com': 42, 'www.geeksforgeeks.org': 107, 'www.w3schools.com': 1, 'www.educba.com': 0}
+{'127.0.0.1:5000': 106, 'www.google.com': 42, 'www.geeksforgeeks.org': 107, 'www.w3schools.com': 1, 'www.educba.com': 31}
+{'127.0.0.1:5000': 106, 'www.google.com': 88, 'www.geeksforgeeks.org': 107, 'www.w3schools.com': 1, 'www.educba.com': 31}
+{'127.0.0.1:5000': 106, 'www.google.com': 91, 'www.geeksforgeeks.org': 107, 'www.w3schools.com': 1, 'www.educba.com': 31}
+{'127.0.0.1:5000': 106, 'www.google.com': 91, 'www.geeksforgeeks.org': 107, 'www.w3schools.com': 30, 'www.educba.com': 31}
+{'127.0.0.1:5000': 106, 'www.google.com': 104, 'www.geeksforgeeks.org': 107, 'www.w3schools.com': 30, 'www.educba.com': 31}
+{'127.0.0.1:5000': 106, 'www.google.com': 104, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31}
+{'127.0.0.1:5000': 106, 'www.google.com': 119, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31}
+{'127.0.0.1:5000': 106, 'www.google.com': 126, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31}
+{'127.0.0.1:5000': 106, 'www.google.com': 144, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 0}
+{'127.0.0.1:5000': 106, 'www.google.com': 144, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 33}
+{'127.0.0.1:5000': 118, 'www.google.com': 144, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 33, '': 0, 'chrome:': 0}
+{'127.0.0.1:5000': 118, 'www.google.com': 144, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 33, '': 0, 'chrome:': 0}
+{'127.0.0.1:5000': 118, 'www.google.com': 144, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 33, '': 0, 'chrome:': 21}
+{'127.0.0.1:5000': 118, 'www.google.com': 152, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 33, '': 0, 'chrome:': 21}
+{'127.0.0.1:5000': 118, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 33, '': 0, 'chrome:': 21, 'www.pythonpool.com': 0}
+{'127.0.0.1:5000': 118, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 33, '': 0, 'chrome:': 21, 'www.pythonpool.com': 8}
+{'127.0.0.1:5000': 118, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 33, '': 0, 'chrome:': 21, 'www.pythonpool.com': 140}
+{'127.0.0.1:5000': 124, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 33, '': 0, 'chrome:': 21, 'www.pythonpool.com': 140}
+{'127.0.0.1:5000': 124, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 35, '': 0, 'chrome:': 21, 'www.pythonpool.com': 140}
+{'127.0.0.1:5000': 124, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 35, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203}
+{'127.0.0.1:5000': 160, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 35, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 0}
+{'127.0.0.1:5000': 160, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 35, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2}
+{'127.0.0.1:5000': 184, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 35, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2}
+{'127.0.0.1:5000': 193, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 35, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2}
+{'127.0.0.1:5000': 194, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 35, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2}
+{'127.0.0.1:5000': 196, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 35, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2}
+{'127.0.0.1:5000': 201, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 35, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 0}
+{'127.0.0.1:5000': 201, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 35, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1}
+{'127.0.0.1:5000': 201, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 35, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1, 'careerkarma.com': 0}
+{'127.0.0.1:5000': 201, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 35, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1, 'careerkarma.com': 1}
+{'127.0.0.1:5000': 201, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 35, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1, 'careerkarma.com': 1}
+{'127.0.0.1:5000': 201, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 30, 'www.educba.com': 31, 'www.askpython.com': 35, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1, 'careerkarma.com': 1}
+{'127.0.0.1:5000': 201, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 31, 'www.educba.com': 31, 'www.askpython.com': 35, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1, 'careerkarma.com': 1}
+{'127.0.0.1:5000': 201, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 31, 'www.educba.com': 31, 'www.askpython.com': 35, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1, 'careerkarma.com': 1}
+{'127.0.0.1:5000': 201, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 31, 'www.educba.com': 31, 'www.askpython.com': 36, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1, 'careerkarma.com': 1}
+{'127.0.0.1:5000': 201, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 31, 'www.educba.com': 31, 'www.askpython.com': 36, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1, 'careerkarma.com': 1, 'todoist.com': 0}
+{'127.0.0.1:5000': 201, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 31, 'www.educba.com': 31, 'www.askpython.com': 36, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1, 'careerkarma.com': 1, 'todoist.com': 4, 'www.youtube.com': 0}
+{'127.0.0.1:5000': 201, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 31, 'www.educba.com': 31, 'www.askpython.com': 36, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1, 'careerkarma.com': 1, 'todoist.com': 4, 'www.youtube.com': 3, 'github.com': 0}
+{'127.0.0.1:5000': 201, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 31, 'www.educba.com': 31, 'www.askpython.com': 36, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1, 'careerkarma.com': 1, 'todoist.com': 4, 'www.youtube.com': 3, 'github.com': 1}
+{'127.0.0.1:5000': 201, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 31, 'www.educba.com': 31, 'www.askpython.com': 36, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1, 'careerkarma.com': 1, 'todoist.com': 4, 'www.youtube.com': 4, 'github.com': 1}
+{'127.0.0.1:5000': 201, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 31, 'www.educba.com': 31, 'www.askpython.com': 36, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1, 'careerkarma.com': 1, 'todoist.com': 6, 'www.youtube.com': 4, 'github.com': 1}
+{'127.0.0.1:5000': 277, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 31, 'www.educba.com': 31, 'www.askpython.com': 36, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1, 'careerkarma.com': 1, 'todoist.com': 6, 'www.youtube.com': 4, 'github.com': 1}
+{'127.0.0.1:5000': 441, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 31, 'www.educba.com': 31, 'www.askpython.com': 36, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1, 'careerkarma.com': 1, 'todoist.com': 6, 'www.youtube.com': 4, 'github.com': 1}
+{'127.0.0.1:5000': 441, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 31, 'www.educba.com': 31, 'www.askpython.com': 36, '': 0, 'chrome:': 21, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1, 'careerkarma.com': 1, 'todoist.com': 6, 'www.youtube.com': 4, 'github.com': 1}
+{'127.0.0.1:5000': 441, 'www.google.com': 159, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 31, 'www.educba.com': 31, 'www.askpython.com': 36, '': 0, 'chrome:': 30, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1, 'careerkarma.com': 1, 'todoist.com': 6, 'www.youtube.com': 4, 'github.com': 1}
+{'127.0.0.1:5000': 441, 'www.google.com': 163, 'www.geeksforgeeks.org': 129, 'www.w3schools.com': 31, 'www.educba.com': 31, 'www.askpython.com': 36, '': 0, 'chrome:': 30, 'www.pythonpool.com': 203, 'getbootstrap.com': 2, 'docs.python.org': 1, 'careerkarma.com': 1, 'todoist.com': 6, 'www.youtube.com': 4, 'github.com': 1}
+{'chrome:': 0}
+{'chrome:': 0}
+{'chrome:': 9, 'www.google.com': 0}
+{'chrome:': 9, 'www.google.com': 3, 'www.programiz.com': 0}
