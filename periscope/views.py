@@ -184,8 +184,9 @@ def tasks():
 @views.route('/sup/activity' )
 def sup_activity():
     shiftdata = db.session.query(Shift)
+    employee = db.session.query(Employee)
 
-    return render_template("sup_activity.html", shiftdata= shiftdata)
+    return render_template("sup_activity.html", shiftdata= shiftdata, employee=employee)
 
 
 @views.route('/admin/')
@@ -196,6 +197,32 @@ def admin_home():
 @views.route('/admin/reports')
 def admin_reports():
     return render_template("reports.html")
+
+
+@views.route('/admin/reports/employees')
+def employees_report():
+    employees = db.session.query(Employee)
+    return render_template("employees_reports.html",employees=employees)
+
+@views.route('/admin/reports/activity')
+def activity_report():
+    shiftdata = db.session.query(Shift)
+    employee = db.session.query(Employee)
+    return render_template("activity_reports.html",shiftdata= shiftdata, employee=employee)
+
+@views.route('/admin/reports/shift')
+def shift_report():
+    shiftdata = db.session.query(Shift)
+    employee = db.session.query(Employee)
+    return render_template("shift_reports.html",shiftdata= shiftdata, employee=employee)
+
+
+@views.route('/admin/reports/tasks')
+def tasks_report():
+    tasksList = db.session.query(Tasks)
+    employee = db.session.query(Employee)
+    return render_template("tasks_reports.html",tasksList=tasksList, employee=employee)
+
 
 
 # @views.route('/delete-task', methods=['POST'])

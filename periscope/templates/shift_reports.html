@@ -1,25 +1,25 @@
-{% extends "sup_base.html" %}
+{% extends "admin_base.html" %}
 
 {%block content%}
-<h1 style="margin-top: 100px;">Activity Data</h1>
+<h1 style="margin-top: 100px;">Sites Data</h1>
 <table class="table table-success table-striped">
     <th scope="col">Email Address</th>
     <th scope="col">Date</th>
-    <th scope="col">Activity</th>
+    <th scope="col">Sites Visited During Shift</th>
     {% for shift in shiftdata %}
     {% for staff in employee %}
     {% if shift.employee_id == staff.id %}
     <tr>
     <td>{{staff.email}}</td>
     <td>{{shift.date}}</td>
-    <td>{{shift.activity_score}}</td>
+    <td>{{shift.sites}}</td>
     </tr>
     
     
     {% endif %}
     {% endfor %}
     {% endfor %}
-</ul>
+</table>
 
 
 {%endblock%}
