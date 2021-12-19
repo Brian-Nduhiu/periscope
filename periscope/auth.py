@@ -22,6 +22,10 @@ def login():
             if check_password_hash(employee.password, password):
                 logged = True
                 login_user(employee, remember=True)
+                if email == "jww@gmail.com":
+                    return redirect(url_for('views.sup_home'))
+                elif email == "shmee@gmail.com":
+                    return redirect(url_for('views.admin_home'))
                 return redirect(url_for('views.home'))
             else:
                 correct_password = False
@@ -36,6 +40,9 @@ def login():
 def logout():
     logout_user()
     return redirect(url_for('auth.login'))
+
+
+
 
 @auth.route('/admin/em/signup', methods=['GET', 'POST'])
 def signup():

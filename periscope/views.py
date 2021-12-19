@@ -2,6 +2,10 @@ import re
 from flask import Flask,Blueprint, render_template, jsonify, request
 import time
 from flask_login import login_required,  current_user
+from sqlalchemy.sql.functions import user
+from . models import Employee, Tasks, Supervisor, Admin, Shift
+from . import db
+import json
 
 
 views = Blueprint('views', __name__)
@@ -74,9 +78,7 @@ def breakpoint():
 def shifts():
     return render_template("shifts.html")
 
-@views.route('/em/tasks')
-def tasks():
-    return render_template("tasks.html")
+
 
 @views.route('/em/activity')
 def activity():
@@ -100,5 +102,67 @@ def activity():
     
     return render_template("activity.html",new_urlViewtime=new_urlViewtime, disp = list( new_urlViewtime.items()),x=x, y=y, activity=activity)
     
+
+
+@views.route('/sup/')
+def sup_home():
+    return render_template("supervisor.html")
+
+
+
+@views.route('/sup/employees')
+def sup_employees():
+    employees = db.session.query(Employee)
+
+    return render_template("employeeList.html", employees=employees)
+
+
+
+@views.route('/sup/tasks', methods=['GET', 'POST'])
+def create_tasks():
+    employees = db.session.query(Employee)
+    if request.method == 'POST':
+        task = request.form.get('task')
+        employeeId = request.form.get('employeeId')
+        
+
+        new_task = Tasks(data=task, user_id=employeeId)
+        
+        db.session.add(new_task)
+        db.session.commit()
+    tasksList = db.session.query(Tasks)
+
+    return render_template("create_tasks.html", employee = current_user, employees = employees, tasksList = tasksList)
+
+@views.route('/em/tasks')
+def tasks():
+    
+    return render_template("tasks.html",)
+
+
+@views.route('/sup/activity', )
+def sup_activity():
+    return render_template("sup_activity.html")
+
+
+@views.route('/admin/')
+def admin_home():
+    return render_template("admin.html")
+
+
+@views.route('/admin/reports')
+def admin_reports():
+    return render_template("reports.html")
+
+
+# @views.route('/delete-task', methods=['POST'])
+# def delete_task():
+#     task = json.loads(request.data)
+#     taskId = task['taskId']
+#     note = Tasks.query.get(taskId)
+#     if task:
+#             db.session.delete(task)
+#             db.session.commit()
+#     return jsonify({})
 
 

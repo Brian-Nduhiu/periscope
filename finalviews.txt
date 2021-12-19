@@ -2151,3 +2151,449 @@
 {'127.0.0.1:5000': 17634, 'www.youtube.com': 2083, 'stackoverflow.com': 102, 'extractor.hubdoc.com': 1, 'www.google.com': 1146, 'getbootstrap.com': 2, 'chrome:': 12, 'flask-dance.readthedocs.io': 100, 'todoist.com': 0}
 {'127.0.0.1:5000': 17634, 'www.youtube.com': 2083, 'stackoverflow.com': 102, 'extractor.hubdoc.com': 1, 'www.google.com': 1146, 'getbootstrap.com': 2, 'chrome:': 12, 'flask-dance.readthedocs.io': 100, 'todoist.com': 5}
 {'127.0.0.1:5000': 17634, 'www.youtube.com': 2083, 'stackoverflow.com': 102, 'extractor.hubdoc.com': 1, 'www.google.com': 1146, 'getbootstrap.com': 2, 'chrome:': 12, 'flask-dance.readthedocs.io': 100, 'todoist.com': 17}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 7}
+{'www.youtube.com': 0}
+{'www.youtube.com': 4}
+{'www.youtube.com': 24}
+{'www.youtube.com': 31}
+{'www.youtube.com': 72}
+{'www.youtube.com': 929}
+{'www.youtube.com': 1021}
+{'www.youtube.com': 1024}
+{'www.youtube.com': 1665}
+{'www.youtube.com': 2421}
+{'www.youtube.com': 2430}
+{'www.youtube.com': 2652}
+{'chrome:': 0}
+{'chrome:': 0}
+{'chrome:': 4, '127.0.0.1:5000': 0}
+{'chrome:': 4, '127.0.0.1:5000': 3}
+{'chrome:': 4, '127.0.0.1:5000': 5, 'www.youtube.com': 0}
+{'chrome:': 4, '127.0.0.1:5000': 5, 'www.youtube.com': 1}
+{'chrome:': 4, '127.0.0.1:5000': 8, 'www.youtube.com': 1}
+{'chrome:': 4, '127.0.0.1:5000': 22, 'www.youtube.com': 1}
+{'chrome:': 4, '127.0.0.1:5000': 24, 'www.youtube.com': 1}
+{'chrome:': 4, '127.0.0.1:5000': 25, 'www.youtube.com': 1}
+{'chrome:': 4, '127.0.0.1:5000': 28, 'www.youtube.com': 1}
+{'chrome:': 4, '127.0.0.1:5000': 50, 'www.youtube.com': 1}
+{'chrome:': 4, '127.0.0.1:5000': 54, 'www.youtube.com': 1}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 64}
+{'127.0.0.1:5000': 94}
+{'127.0.0.1:5000': 99}
+{'127.0.0.1:5000': 100}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 6}
+{'127.0.0.1:5000': 9}
+{'127.0.0.1:5000': 15}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 77}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 11}
+{'127.0.0.1:5000': 15}
+{'127.0.0.1:5000': 122, 'chrome:': 0}
+{'127.0.0.1:5000': 122, 'chrome:': 0}
+{'127.0.0.1:5000': 122, 'chrome:': 18, 'www.google.com': 0}
+{'127.0.0.1:5000': 122, 'chrome:': 18, 'www.google.com': 16, 'web.itu.edu.tr': 0}
+{'127.0.0.1:5000': 122, 'chrome:': 18, 'www.google.com': 16, 'web.itu.edu.tr': 53}
+{'127.0.0.1:5000': 122, 'chrome:': 18, 'www.google.com': 35, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 0}
+{'127.0.0.1:5000': 122, 'chrome:': 18, 'www.google.com': 35, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 37}
+{'127.0.0.1:5000': 130, 'chrome:': 18, 'www.google.com': 35, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 37, 'stackoverflow.com': 0}
+{'127.0.0.1:5000': 130, 'chrome:': 18, 'www.google.com': 35, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 37, 'stackoverflow.com': 3, 'www.pythonpool.com': 0}
+{'127.0.0.1:5000': 130, 'chrome:': 18, 'www.google.com': 35, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 37, 'stackoverflow.com': 3, 'www.pythonpool.com': 1}
+{'127.0.0.1:5000': 130, 'chrome:': 18, 'www.google.com': 35, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 3, 'www.pythonpool.com': 1}
+{'127.0.0.1:5000': 210, 'chrome:': 18, 'www.google.com': 35, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 3, 'www.pythonpool.com': 1}
+{'127.0.0.1:5000': 210, 'chrome:': 18, 'www.google.com': 35, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 3, 'www.pythonpool.com': 1}
+{'127.0.0.1:5000': 210, 'chrome:': 51, 'www.google.com': 35, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 3, 'www.pythonpool.com': 1}
+{'127.0.0.1:5000': 210, 'chrome:': 51, 'www.google.com': 38, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 3, 'www.pythonpool.com': 1, 'github.com': 0}
+{'127.0.0.1:5000': 210, 'chrome:': 51, 'www.google.com': 38, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 3, 'www.pythonpool.com': 1, 'github.com': 9}
+{'127.0.0.1:5000': 210, 'chrome:': 51, 'www.google.com': 38, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 3, 'www.pythonpool.com': 1, 'github.com': 15}
+{'127.0.0.1:5000': 210, 'chrome:': 51, 'www.google.com': 38, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 3, 'www.pythonpool.com': 1, 'github.com': 46}
+{'127.0.0.1:5000': 224, 'chrome:': 51, 'www.google.com': 38, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 3, 'www.pythonpool.com': 1, 'github.com': 46, '': 0}
+{'127.0.0.1:5000': 224, 'chrome:': 51, 'www.google.com': 38, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 3, 'www.pythonpool.com': 1, 'github.com': 46, '': 0}
+{'127.0.0.1:5000': 224, 'chrome:': 71, 'www.google.com': 38, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 3, 'www.pythonpool.com': 1, 'github.com': 46, '': 0}
+{'127.0.0.1:5000': 224, 'chrome:': 71, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 3, 'www.pythonpool.com': 1, 'github.com': 46, '': 0}
+{'127.0.0.1:5000': 224, 'chrome:': 71, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 79, 'www.pythonpool.com': 1, 'github.com': 46, '': 0}
+{'127.0.0.1:5000': 224, 'chrome:': 71, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 46, '': 0}
+{'127.0.0.1:5000': 372, 'chrome:': 71, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 46, '': 0, 'www.youtube.com': 0}
+{'127.0.0.1:5000': 372, 'chrome:': 71, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 46, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 374, 'chrome:': 71, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 46, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 380, 'chrome:': 71, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 46, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 404, 'chrome:': 71, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 46, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 412, 'chrome:': 71, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 46, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 412, 'chrome:': 71, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 46, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 412, 'chrome:': 79, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 46, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 415, 'chrome:': 79, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 46, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 417, 'chrome:': 79, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 46, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 423, 'chrome:': 79, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 46, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 428, 'chrome:': 79, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 46, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 461, 'chrome:': 79, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 46, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 461, 'chrome:': 79, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 69, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 461, 'chrome:': 79, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 70, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 461, 'chrome:': 79, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 72, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 461, 'chrome:': 79, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 142, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 461, 'chrome:': 79, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 150, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 461, 'chrome:': 79, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 194, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 461, 'chrome:': 79, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 199, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 461, 'chrome:': 79, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 267, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 461, 'chrome:': 79, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 351, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 466, 'chrome:': 79, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 351, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 469, 'chrome:': 79, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 351, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 473, 'chrome:': 79, 'www.google.com': 51, 'web.itu.edu.tr': 53, 'flask.palletsprojects.com': 38, 'stackoverflow.com': 147, 'www.pythonpool.com': 1, 'github.com': 351, '': 0, 'www.youtube.com': 93}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 3}
+{'127.0.0.1:5000': 141, 'github.com': 0}
+{'127.0.0.1:5000': 141, 'github.com': 6}
+{'calendar.google.com': 0}
+{'calendar.google.com': 3}
+{'calendar.google.com': 47, '127.0.0.1:5000': 0}
+{'calendar.google.com': 47, '127.0.0.1:5000': 44, 'www.youtube.com': 0}
+{'calendar.google.com': 47, '127.0.0.1:5000': 44, 'www.youtube.com': 26, 'chrome:': 0}
+{'calendar.google.com': 47, '127.0.0.1:5000': 44, 'www.youtube.com': 26, 'chrome:': 0}
+{'calendar.google.com': 47, '127.0.0.1:5000': 44, 'www.youtube.com': 26, 'chrome:': 2, 'www.goojara.to': 0}
+{'calendar.google.com': 47, '127.0.0.1:5000': 44, 'www.youtube.com': 26, 'chrome:': 2, 'www.goojara.to': 2}
+{'calendar.google.com': 47, '127.0.0.1:5000': 44, 'www.youtube.com': 26, 'chrome:': 2, 'www.goojara.to': 4}
+{'calendar.google.com': 47, '127.0.0.1:5000': 44, 'www.youtube.com': 5408, 'chrome:': 2, 'www.goojara.to': 4}
+{'calendar.google.com': 47, '127.0.0.1:5000': 811, 'www.youtube.com': 5408, 'chrome:': 2, 'www.goojara.to': 4}
+{'calendar.google.com': 47, '127.0.0.1:5000': 811, 'www.youtube.com': 5408, 'chrome:': 2, 'www.goojara.to': 4}
+{'calendar.google.com': 47, '127.0.0.1:5000': 811, 'www.youtube.com': 5408, 'chrome:': 7, 'www.goojara.to': 4, 'getbootstrap.com': 0}
+{'calendar.google.com': 47, '127.0.0.1:5000': 811, 'www.youtube.com': 5408, 'chrome:': 7, 'www.goojara.to': 4, 'getbootstrap.com': 6}
+{'calendar.google.com': 47, '127.0.0.1:5000': 811, 'www.youtube.com': 5408, 'chrome:': 7, 'www.goojara.to': 4, 'getbootstrap.com': 11}
+{'calendar.google.com': 47, '127.0.0.1:5000': 811, 'www.youtube.com': 5408, 'chrome:': 7, 'www.goojara.to': 4, 'getbootstrap.com': 18}
+{'calendar.google.com': 47, '127.0.0.1:5000': 811, 'www.youtube.com': 5408, 'chrome:': 7, 'www.goojara.to': 4, 'getbootstrap.com': 172}
+{'calendar.google.com': 47, '127.0.0.1:5000': 811, 'www.youtube.com': 5408, 'chrome:': 7, 'www.goojara.to': 4, 'getbootstrap.com': 172}
+{'calendar.google.com': 47, '127.0.0.1:5000': 811, 'www.youtube.com': 5408, 'chrome:': 52, 'www.goojara.to': 4, 'getbootstrap.com': 172}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 2}
+{'127.0.0.1:5000': 6}
+{'127.0.0.1:5000': 62, '': 0}
+{'127.0.0.1:5000': 62, '': 0, 'chrome:': 0}
+{'127.0.0.1:5000': 62, '': 0, 'chrome:': 5, 'www.google.com': 0}
+{'127.0.0.1:5000': 62, '': 0, 'chrome:': 5, 'www.google.com': 6, 'stackoverflow.com': 0}
+{'127.0.0.1:5000': 62, '': 0, 'chrome:': 5, 'www.google.com': 6, 'stackoverflow.com': 93}
+{'127.0.0.1:5000': 62, '': 0, 'chrome:': 5, 'www.google.com': 27, 'stackoverflow.com': 93, 'www.reddit.com': 0}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 26, 'www.reddit.com': 0}
+{'127.0.0.1:5000': 26, 'www.reddit.com': 2, 'chrome:': 0}
+{'127.0.0.1:5000': 26, 'www.reddit.com': 2, 'chrome:': 2, 'www.google.com': 0}
+{'127.0.0.1:5000': 26, 'www.reddit.com': 2, 'chrome:': 2, 'www.google.com': 13, 'stackoverflow.com': 0}
+{'127.0.0.1:5000': 26, 'www.reddit.com': 2, 'chrome:': 2, 'www.google.com': 13, 'stackoverflow.com': 26, 'github.com': 0}
+{'127.0.0.1:5000': 26, 'www.reddit.com': 2, 'chrome:': 2, 'www.google.com': 13, 'stackoverflow.com': 26, 'github.com': 5}
+{'127.0.0.1:5000': 26, 'www.reddit.com': 2, 'chrome:': 2, 'www.google.com': 13, 'stackoverflow.com': 26, 'github.com': 13}
+{'127.0.0.1:5000': 26, 'www.reddit.com': 2, 'chrome:': 2, 'www.google.com': 13, 'stackoverflow.com': 26, 'github.com': 19}
+{'127.0.0.1:5000': 26, 'www.reddit.com': 2, 'chrome:': 2, 'www.google.com': 13, 'stackoverflow.com': 26, 'github.com': 31}
+{'127.0.0.1:5000': 26, 'www.reddit.com': 2, 'chrome:': 2, 'www.google.com': 13, 'stackoverflow.com': 26, 'github.com': 34}
+{'127.0.0.1:5000': 26, 'www.reddit.com': 2, 'chrome:': 2, 'www.google.com': 13, 'stackoverflow.com': 26, 'github.com': 40}
+{'127.0.0.1:5000': 26, 'www.reddit.com': 2, 'chrome:': 2, 'www.google.com': 13, 'stackoverflow.com': 26, 'github.com': 42}
+{'127.0.0.1:5000': 26, 'www.reddit.com': 2, 'chrome:': 2, 'www.google.com': 13, 'stackoverflow.com': 26, 'github.com': 54}
+{'127.0.0.1:5000': 26, 'www.reddit.com': 2, 'chrome:': 2, 'www.google.com': 13, 'stackoverflow.com': 26, 'github.com': 56}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 83, 'github.com': 0}
+{'127.0.0.1:5000': 83, 'github.com': 3}
+{'127.0.0.1:5000': 83, 'github.com': 7}
+{'127.0.0.1:5000': 83, 'github.com': 33}
+{'127.0.0.1:5000': 157, 'github.com': 33, 'stackoverflow.com': 0}
+{'127.0.0.1:5000': 157, 'github.com': 33, 'stackoverflow.com': 1, '': 0}
+{'127.0.0.1:5000': 157, 'github.com': 33, 'stackoverflow.com': 1, '': 0, 'chrome:': 0}
+{'127.0.0.1:5000': 157, 'github.com': 33, 'stackoverflow.com': 1, '': 0, 'chrome:': 7, 'www.google.com': 0}
+{'127.0.0.1:5000': 157, 'github.com': 33, 'stackoverflow.com': 1, '': 0, 'chrome:': 7, 'www.google.com': 9, 'flask-login.readthedocs.io': 0}
+{'127.0.0.1:5000': 157, 'github.com': 33, 'stackoverflow.com': 1, '': 0, 'chrome:': 7, 'www.google.com': 9, 'flask-login.readthedocs.io': 60}
+{'www.youtube.com': 0}
+{'www.youtube.com': 11}
+{'www.youtube.com': 15}
+{'www.youtube.com': 144, '127.0.0.1:5000': 0}
+{'www.youtube.com': 144, '127.0.0.1:5000': 1}
+{'www.youtube.com': 204, '127.0.0.1:5000': 1}
+{'www.youtube.com': 460, '127.0.0.1:5000': 1}
+{'www.youtube.com': 494, '127.0.0.1:5000': 1}
+{'www.youtube.com': 1771, '127.0.0.1:5000': 1}
+{'www.youtube.com': 1800, '127.0.0.1:5000': 1}
+{'www.youtube.com': 1803, '127.0.0.1:5000': 1}
+{'www.youtube.com': 1823, '127.0.0.1:5000': 1}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 10}
+{'127.0.0.1:5000': 51}
+{'127.0.0.1:5000': 55}
+{'127.0.0.1:5000': 82}
+{'127.0.0.1:5000': 114}
+{'127.0.0.1:5000': 115}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 2}
+{'127.0.0.1:5000': 7}
+{'127.0.0.1:5000': 10}
+{'127.0.0.1:5000': 108}
+{'127.0.0.1:5000': 110}
+{'127.0.0.1:5000': 116}
+{'127.0.0.1:5000': 119}
+{'127.0.0.1:5000': 122}
+{'127.0.0.1:5000': 135}
+{'127.0.0.1:5000': 147}
+{'127.0.0.1:5000': 154}
+{'127.0.0.1:5000': 158}
+{'127.0.0.1:5000': 168, '': 0, 'chrome:': 0}
+{'127.0.0.1:5000': 168, '': 0, 'chrome:': 0}
+{'127.0.0.1:5000': 168, '': 0, 'chrome:': 12}
+{'127.0.0.1:5000': 181, '': 0, 'chrome:': 12}
+{'127.0.0.1:5000': 181, '': 0, 'chrome:': 19}
+{'127.0.0.1:5000': 184, '': 0, 'chrome:': 19}
+{'127.0.0.1:5000': 187, '': 0, 'chrome:': 19}
+{'127.0.0.1:5000': 191, '': 0, 'chrome:': 19}
+{'127.0.0.1:5000': 232, '': 0, 'chrome:': 19}
+{'127.0.0.1:5000': 236, '': 0, 'chrome:': 19}
+{'127.0.0.1:5000': 239, '': 0, 'chrome:': 19}
+{'127.0.0.1:5000': 239, '': 0, 'chrome:': 27}
+{'127.0.0.1:5000': 262, '': 0, 'chrome:': 27}
+{'127.0.0.1:5000': 262, '': 0, 'chrome:': 32}
+{'127.0.0.1:5000': 264, '': 0, 'chrome:': 32}
+{'127.0.0.1:5000': 269, '': 0, 'chrome:': 32}
+{'127.0.0.1:5000': 270, '': 0, 'chrome:': 32}
+{'127.0.0.1:5000': 270, '': 0, 'chrome:': 41}
+{'127.0.0.1:5000': 273, '': 0, 'chrome:': 41}
+{'127.0.0.1:5000': 294, '': 0, 'chrome:': 41}
+{'127.0.0.1:5000': 294, '': 0, 'chrome:': 49}
+{'127.0.0.1:5000': 296, '': 0, 'chrome:': 49}
+{'127.0.0.1:5000': 298, '': 0, 'chrome:': 49}
+{'127.0.0.1:5000': 302, '': 0, 'chrome:': 49}
+{'127.0.0.1:5000': 305, '': 0, 'chrome:': 49}
+{'127.0.0.1:5000': 770, '': 0, 'chrome:': 49}
+{'127.0.0.1:5000': 774, '': 0, 'chrome:': 49}
+{'127.0.0.1:5000': 777, '': 0, 'chrome:': 49}
+{'127.0.0.1:5000': 935, '': 0, 'chrome:': 49}
+{'127.0.0.1:5000': 935, '': 0, 'chrome:': 49}
+{'127.0.0.1:5000': 935, '': 0, 'chrome:': 72, 'www.google.com': 0}
+{'127.0.0.1:5000': 935, '': 0, 'chrome:': 72, 'www.google.com': 5}
+{'127.0.0.1:5000': 935, '': 0, 'chrome:': 72, 'www.google.com': 27}
+{'127.0.0.1:5000': 935, '': 0, 'chrome:': 72, 'www.google.com': 46, 'pythonbasics.org': 0}
+{'127.0.0.1:5000': 935, '': 0, 'chrome:': 72, 'www.google.com': 46, 'pythonbasics.org': 36, 'www.youtube.com': 0}
+{'127.0.0.1:5000': 935, '': 0, 'chrome:': 72, 'www.google.com': 46, 'pythonbasics.org': 36, 'www.youtube.com': 2}
+{'127.0.0.1:5000': 1011, '': 0, 'chrome:': 72, 'www.google.com': 46, 'pythonbasics.org': 36, 'www.youtube.com': 2}
+{'127.0.0.1:5000': 1011, '': 0, 'chrome:': 72, 'www.google.com': 46, 'pythonbasics.org': 51, 'www.youtube.com': 2}
+{'127.0.0.1:5000': 1011, '': 0, 'chrome:': 72, 'www.google.com': 46, 'pythonbasics.org': 51, 'www.youtube.com': 82}
+{'127.0.0.1:5000': 1011, '': 0, 'chrome:': 72, 'www.google.com': 46, 'pythonbasics.org': 51, 'www.youtube.com': 87, 'todoist.com': 0}
+{'127.0.0.1:5000': 1011, '': 0, 'chrome:': 72, 'www.google.com': 46, 'pythonbasics.org': 51, 'www.youtube.com': 87, 'todoist.com': 21}
+{'127.0.0.1:5000': 1011, '': 0, 'chrome:': 72, 'www.google.com': 46, 'pythonbasics.org': 51, 'www.youtube.com': 234, 'todoist.com': 21}
+{'127.0.0.1:5000': 1011, '': 0, 'chrome:': 72, 'www.google.com': 46, 'pythonbasics.org': 51, 'www.youtube.com': 234, 'todoist.com': 27}
+{'127.0.0.1:5000': 1011, '': 0, 'chrome:': 72, 'www.google.com': 46, 'pythonbasics.org': 51, 'www.youtube.com': 1223, 'todoist.com': 27}
+{'github.com': 0}
+{'github.com': 3}
+{'github.com': 8}
+{'github.com': 17}
+{'github.com': 19}
+{'github.com': 21}
+{'github.com': 25}
+{'github.com': 28}
+{'github.com': 29}
+{'github.com': 31}
+{'github.com': 67, '127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 4}
+{'127.0.0.1:5000': 8}
+{'127.0.0.1:5000': 26, '': 0}
+{'127.0.0.1:5000': 26, '': 0, 'www.google.com': 0}
+{'127.0.0.1:5000': 26, '': 0, 'www.google.com': 5, 'stackoverflow.com': 0}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 51, '': 0}
+{'127.0.0.1:5000': 51, '': 0, 'chrome:': 0}
+{'127.0.0.1:5000': 51, '': 0, 'chrome:': 2, 'www.youtube.com': 0}
+{'127.0.0.1:5000': 51, '': 0, 'chrome:': 2, 'www.youtube.com': 0}
+{'127.0.0.1:5000': 58, '': 0, 'chrome:': 2, 'www.youtube.com': 0}
+{'127.0.0.1:5000': 58, '': 0, 'chrome:': 2, 'www.youtube.com': 7}
+{'127.0.0.1:5000': 58, '': 0, 'chrome:': 2, 'www.youtube.com': 17}
+{'127.0.0.1:5000': 58, '': 0, 'chrome:': 2, 'www.youtube.com': 25}
+{'127.0.0.1:5000': 102, '': 0, 'chrome:': 2, 'www.youtube.com': 25}
+{'127.0.0.1:5000': 102, '': 0, 'chrome:': 2, 'www.youtube.com': 44}
+{'www.youtube.com': 0}
+{'www.youtube.com': 10}
+{'www.youtube.com': 19}
+{'www.youtube.com': 34}
+{'www.youtube.com': 38, '127.0.0.1:5000': 0}
+{'www.youtube.com': 38, '127.0.0.1:5000': 4}
+{'www.youtube.com': 40, '127.0.0.1:5000': 4}
+{'www.youtube.com': 40, '127.0.0.1:5000': 10}
+{'www.youtube.com': 45, '127.0.0.1:5000': 10}
+{'www.youtube.com': 45, '127.0.0.1:5000': 21}
+{'www.youtube.com': 49, '127.0.0.1:5000': 21}
+{'www.youtube.com': 0}
+{'www.youtube.com': 0}
+{'www.youtube.com': 2}
+{'www.youtube.com': 5}
+{'www.youtube.com': 14}
+{'www.youtube.com': 21, '127.0.0.1:5000': 0}
+{'www.youtube.com': 0}
+{'www.youtube.com': 288, '127.0.0.1:5000': 0}
+{'www.youtube.com': 0}
+{'127.0.0.1:5000': 0}
+{'www.youtube.com': 0}
+{'www.youtube.com': 29, '127.0.0.1:5000': 0}
+{'www.youtube.com': 29, '127.0.0.1:5000': 62, 'stackoverflow.com': 0}
+{'www.youtube.com': 29, '127.0.0.1:5000': 62, 'stackoverflow.com': 1, '': 0}
+{'www.youtube.com': 29, '127.0.0.1:5000': 62, 'stackoverflow.com': 1, '': 0, 'chrome:': 0}
+{'www.youtube.com': 29, '127.0.0.1:5000': 62, 'stackoverflow.com': 1, '': 0, 'chrome:': 8, 'www.google.com': 0}
+{'www.youtube.com': 29, '127.0.0.1:5000': 62, 'stackoverflow.com': 1, '': 0, 'chrome:': 8, 'www.google.com': 2, 'github.com': 0}
+{'www.youtube.com': 29, '127.0.0.1:5000': 62, 'stackoverflow.com': 1, '': 0, 'chrome:': 8, 'www.google.com': 2, 'github.com': 5}
+{'www.youtube.com': 29, '127.0.0.1:5000': 62, 'stackoverflow.com': 1, '': 0, 'chrome:': 8, 'www.google.com': 2, 'github.com': 10}
+{'www.youtube.com': 29, '127.0.0.1:5000': 62, 'stackoverflow.com': 1, '': 0, 'chrome:': 8, 'www.google.com': 2, 'github.com': 12}
+{'www.youtube.com': 29, '127.0.0.1:5000': 62, 'stackoverflow.com': 1, '': 0, 'chrome:': 8, 'www.google.com': 2, 'github.com': 61}
+{'www.youtube.com': 29, '127.0.0.1:5000': 653, 'stackoverflow.com': 1, '': 0, 'chrome:': 8, 'www.google.com': 2, 'github.com': 61}
+{'www.youtube.com': 37, '127.0.0.1:5000': 653, 'stackoverflow.com': 1, '': 0, 'chrome:': 8, 'www.google.com': 2, 'github.com': 61}
+{'www.youtube.com': 61, '127.0.0.1:5000': 653, 'stackoverflow.com': 1, '': 0, 'chrome:': 8, 'www.google.com': 2, 'github.com': 61}
+{'www.youtube.com': 134, '127.0.0.1:5000': 653, 'stackoverflow.com': 1, '': 0, 'chrome:': 8, 'www.google.com': 2, 'github.com': 61}
+{'www.youtube.com': 151, '127.0.0.1:5000': 653, 'stackoverflow.com': 1, '': 0, 'chrome:': 8, 'www.google.com': 2, 'github.com': 61}
+{'www.youtube.com': 154, '127.0.0.1:5000': 653, 'stackoverflow.com': 1, '': 0, 'chrome:': 8, 'www.google.com': 2, 'github.com': 61}
+{'www.youtube.com': 158, '127.0.0.1:5000': 653, 'stackoverflow.com': 1, '': 0, 'chrome:': 8, 'www.google.com': 2, 'github.com': 61}
+{'www.youtube.com': 158, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 8, 'www.google.com': 2, 'github.com': 61}
+{'www.youtube.com': 168, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 8, 'www.google.com': 2, 'github.com': 61}
+{'www.youtube.com': 168, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 8, 'www.google.com': 2, 'github.com': 61}
+{'www.youtube.com': 168, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 2, 'github.com': 61}
+{'www.youtube.com': 168, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 2, 'github.com': 61}
+{'www.youtube.com': 171, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 2, 'github.com': 61}
+{'www.youtube.com': 181, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 2, 'github.com': 61, 'www.goojara.to': 0}
+{'www.youtube.com': 181, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 2, 'github.com': 61, 'www.goojara.to': 5}
+{'www.youtube.com': 181, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 2, 'github.com': 61, 'www.goojara.to': 12}
+{'www.youtube.com': 181, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 2, 'github.com': 61, 'www.goojara.to': 16}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 2, 'github.com': 61, 'www.goojara.to': 16}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 2, 'github.com': 61, 'www.goojara.to': 27}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 2, 'github.com': 61, 'www.goojara.to': 44}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 2, 'github.com': 61, 'www.goojara.to': 46}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 2, 'github.com': 61, 'www.goojara.to': 57}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 2, 'github.com': 61, 'www.goojara.to': 57}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 57}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 60, 'www.imdb.com': 0}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 60, 'www.imdb.com': 32}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 63, 'www.imdb.com': 32}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 63, 'www.imdb.com': 43}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 63, 'www.imdb.com': 52}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 66, 'www.imdb.com': 52}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 69, 'www.imdb.com': 52}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 71, 'www.imdb.com': 52}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 79, 'www.imdb.com': 52}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 79, 'www.imdb.com': 57}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 79, 'www.imdb.com': 75}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 79, 'www.imdb.com': 86}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 80, 'www.imdb.com': 86}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 80, 'www.imdb.com': 108}
+{'www.youtube.com': 187, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 80, 'www.imdb.com': 108}
+{'www.youtube.com': 188, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 80, 'www.imdb.com': 108}
+{'www.youtube.com': 190, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 80, 'www.imdb.com': 108}
+{'www.youtube.com': 208, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 80, 'www.imdb.com': 108}
+{'www.youtube.com': 208, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 80, 'www.imdb.com': 147}
+{'www.youtube.com': 213, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 80, 'www.imdb.com': 147}
+{'www.youtube.com': 213, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 80, 'www.imdb.com': 160}
+{'www.youtube.com': 213, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 80, 'www.imdb.com': 166}
+{'www.youtube.com': 213, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 80, 'www.imdb.com': 207}
+{'www.youtube.com': 213, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 61, 'www.goojara.to': 81, 'www.imdb.com': 207}
+{'www.youtube.com': 213, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 62, 'www.goojara.to': 81, 'www.imdb.com': 207}
+{'www.youtube.com': 241, '127.0.0.1:5000': 653, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 62, 'www.goojara.to': 81, 'www.imdb.com': 207}
+{'www.youtube.com': 241, '127.0.0.1:5000': 660, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 62, 'www.goojara.to': 81, 'www.imdb.com': 207}
+{'www.youtube.com': 288, '127.0.0.1:5000': 660, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 62, 'www.goojara.to': 81, 'www.imdb.com': 207}
+{'www.youtube.com': 288, '127.0.0.1:5000': 711, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 62, 'www.goojara.to': 81, 'www.imdb.com': 207}
+{'www.youtube.com': 296, '127.0.0.1:5000': 711, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 62, 'www.goojara.to': 81, 'www.imdb.com': 207}
+{'www.youtube.com': 298, '127.0.0.1:5000': 711, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 62, 'www.goojara.to': 81, 'www.imdb.com': 207}
+{'www.youtube.com': 299, '127.0.0.1:5000': 711, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 62, 'www.goojara.to': 81, 'www.imdb.com': 207}
+{'www.youtube.com': 299, '127.0.0.1:5000': 831, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 62, 'www.goojara.to': 81, 'www.imdb.com': 207}
+{'www.youtube.com': 299, '127.0.0.1:5000': 835, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 62, 'www.goojara.to': 81, 'www.imdb.com': 207}
+{'www.youtube.com': 299, '127.0.0.1:5000': 837, 'stackoverflow.com': 2, '': 0, 'chrome:': 10, 'www.google.com': 35, 'github.com': 62, 'www.goojara.to': 81, 'www.imdb.com': 207}
+{'www.youtube.com': 0}
+{'www.youtube.com': 2}
+{'www.youtube.com': 8, 'github.com': 0}
+{'www.youtube.com': 8, 'github.com': 6}
+{'www.youtube.com': 8, 'github.com': 9}
+{'www.youtube.com': 8, 'github.com': 12}
+{'www.youtube.com': 0}
+{'www.youtube.com': 10}
+{'www.youtube.com': 0}
+{'www.youtube.com': 23, 'github.com': 0}
+{'www.youtube.com': 23, 'github.com': 0}
+{'www.youtube.com': 35, 'github.com': 0}
+{'www.youtube.com': 37, 'github.com': 0}
+{'www.youtube.com': 234, 'github.com': 0}
+{'www.youtube.com': 235, 'github.com': 0, '127.0.0.1:5000': 0}
+{'www.youtube.com': 235, 'github.com': 0, '127.0.0.1:5000': 2}
+{'www.youtube.com': 251, 'github.com': 0, '127.0.0.1:5000': 2}
+{'www.youtube.com': 257, 'github.com': 0, '127.0.0.1:5000': 2}
+{'www.youtube.com': 263, 'github.com': 0, '127.0.0.1:5000': 2}
+{'www.youtube.com': 1158, 'github.com': 0, '127.0.0.1:5000': 2}
+{'www.youtube.com': 1158, 'github.com': 0, '127.0.0.1:5000': 7}
+{'www.youtube.com': 1158, 'github.com': 0, '127.0.0.1:5000': 11}
+{'www.youtube.com': 1158, 'github.com': 0, '127.0.0.1:5000': 17}
+{'www.youtube.com': 1158, 'github.com': 0, '127.0.0.1:5000': 23}
+{'www.youtube.com': 1158, 'github.com': 0, '127.0.0.1:5000': 30}
+{'www.youtube.com': 1158, 'github.com': 0, '127.0.0.1:5000': 36}
+{'www.youtube.com': 1158, 'github.com': 0, '127.0.0.1:5000': 40}
+{'chrome:': 0}
+{'chrome:': 0}
+{'chrome:': 4, 'getbootstrap.com': 0}
+{'chrome:': 4, 'getbootstrap.com': 5}
+{'chrome:': 4, 'getbootstrap.com': 10}
+{'chrome:': 4, 'getbootstrap.com': 139}
+{'chrome:': 4, 'getbootstrap.com': 139}
+{'chrome:': 6, 'getbootstrap.com': 139, 'www.youtube.com': 0}
+{'chrome:': 6, 'getbootstrap.com': 139, 'www.youtube.com': 14}
+{'chrome:': 6, 'getbootstrap.com': 139, 'www.youtube.com': 17}
+{'chrome:': 6, 'getbootstrap.com': 139, 'www.youtube.com': 108, '127.0.0.1:5000': 0}
+{'chrome:': 6, 'getbootstrap.com': 139, 'www.youtube.com': 108, '127.0.0.1:5000': 105}
+{'chrome:': 6, 'getbootstrap.com': 139, 'www.youtube.com': 111, '127.0.0.1:5000': 105}
+{'chrome:': 6, 'getbootstrap.com': 139, 'www.youtube.com': 112, '127.0.0.1:5000': 105}
+{'chrome:': 6, 'getbootstrap.com': 139, 'www.youtube.com': 112, '127.0.0.1:5000': 349}
+{'chrome:': 6, 'getbootstrap.com': 139, 'www.youtube.com': 115, '127.0.0.1:5000': 349}
+{'chrome:': 6, 'getbootstrap.com': 139, 'www.youtube.com': 121, '127.0.0.1:5000': 349}
+{'chrome:': 6, 'getbootstrap.com': 139, 'www.youtube.com': 121, '127.0.0.1:5000': 367}
+{'chrome:': 6, 'getbootstrap.com': 139, 'www.youtube.com': 121, '127.0.0.1:5000': 376}
+{'chrome:': 6, 'getbootstrap.com': 139, 'www.youtube.com': 121, '127.0.0.1:5000': 382}
+{'': 0}
+{'': 0, 'www.google.com': 0}
+{'': 0, 'www.google.com': 5, 'stackoverflow.com': 0}
+{'127.0.0.1:5000': 0}
+{'getbootstrap.com': 0}
+{'getbootstrap.com': 1, 'www.youtube.com': 0}
+{'getbootstrap.com': 1, 'www.youtube.com': 1}
+{'getbootstrap.com': 3, 'www.youtube.com': 1, '127.0.0.1:5000': 0}
+{'getbootstrap.com': 3, 'www.youtube.com': 1, '127.0.0.1:5000': 4}
+{'getbootstrap.com': 130, 'www.youtube.com': 1, '127.0.0.1:5000': 4}
+{'getbootstrap.com': 130, 'www.youtube.com': 1, '127.0.0.1:5000': 504}
+{'getbootstrap.com': 130, 'www.youtube.com': 1, '127.0.0.1:5000': 519}
+{'getbootstrap.com': 130, 'www.youtube.com': 1, '127.0.0.1:5000': 522}
+{'getbootstrap.com': 130, 'www.youtube.com': 1, '127.0.0.1:5000': 543, '': 0}
+{'getbootstrap.com': 130, 'www.youtube.com': 1, '127.0.0.1:5000': 543, '': 0, 'chrome:': 0}
+{'getbootstrap.com': 130, 'www.youtube.com': 1, '127.0.0.1:5000': 543, '': 0, 'chrome:': 4}
+{'getbootstrap.com': 130, 'www.youtube.com': 2, '127.0.0.1:5000': 543, '': 0, 'chrome:': 4}
+{'getbootstrap.com': 130, 'www.youtube.com': 2, '127.0.0.1:5000': 543, '': 0, 'chrome:': 6}
+{'getbootstrap.com': 130, 'www.youtube.com': 6, '127.0.0.1:5000': 543, '': 0, 'chrome:': 6}
+{'getbootstrap.com': 130, 'www.youtube.com': 6, '127.0.0.1:5000': 543, '': 0, 'chrome:': 9}
+{'getbootstrap.com': 130, 'www.youtube.com': 9, '127.0.0.1:5000': 543, '': 0, 'chrome:': 9}
+{'getbootstrap.com': 130, 'www.youtube.com': 9, '127.0.0.1:5000': 545, '': 0, 'chrome:': 9}
+{'getbootstrap.com': 130, 'www.youtube.com': 9, '127.0.0.1:5000': 548, '': 0, 'chrome:': 9}
+{'getbootstrap.com': 130, 'www.youtube.com': 9, '127.0.0.1:5000': 560, '': 0, 'chrome:': 9}
+{'getbootstrap.com': 130, 'www.youtube.com': 9, '127.0.0.1:5000': 570, '': 0, 'chrome:': 9}
+{'getbootstrap.com': 130, 'www.youtube.com': 12, '127.0.0.1:5000': 570, '': 0, 'chrome:': 9, 'todoist.com': 0}
+{'getbootstrap.com': 130, 'www.youtube.com': 12, '127.0.0.1:5000': 570, '': 0, 'chrome:': 9, 'todoist.com': 1}
+{'getbootstrap.com': 130, 'www.youtube.com': 13, '127.0.0.1:5000': 570, '': 0, 'chrome:': 9, 'todoist.com': 1}
+{'getbootstrap.com': 130, 'www.youtube.com': 13, '127.0.0.1:5000': 570, '': 0, 'chrome:': 9, 'todoist.com': 2}
+{'getbootstrap.com': 130, 'www.youtube.com': 15, '127.0.0.1:5000': 570, '': 0, 'chrome:': 9, 'todoist.com': 2}
+{'getbootstrap.com': 130, 'www.youtube.com': 15, '127.0.0.1:5000': 570, '': 0, 'chrome:': 9, 'todoist.com': 4}
+{'getbootstrap.com': 130, 'www.youtube.com': 15, '127.0.0.1:5000': 572, '': 0, 'chrome:': 9, 'todoist.com': 4}
+{'getbootstrap.com': 130, 'www.youtube.com': 15, '127.0.0.1:5000': 572, '': 0, 'chrome:': 9, 'todoist.com': 18}
+{'getbootstrap.com': 130, 'www.youtube.com': 15, '127.0.0.1:5000': 572, '': 0, 'chrome:': 9, 'todoist.com': 22}
+{'getbootstrap.com': 130, 'www.youtube.com': 15, '127.0.0.1:5000': 572, '': 0, 'chrome:': 9, 'todoist.com': 35}
+{'getbootstrap.com': 130, 'www.youtube.com': 15, '127.0.0.1:5000': 572, '': 0, 'chrome:': 9, 'todoist.com': 52}
+{'getbootstrap.com': 130, 'www.youtube.com': 15, '127.0.0.1:5000': 572, '': 0, 'chrome:': 9, 'todoist.com': 73}
+{'getbootstrap.com': 130, 'www.youtube.com': 15, '127.0.0.1:5000': 574, '': 0, 'chrome:': 9, 'todoist.com': 73}
+{'getbootstrap.com': 130, 'www.youtube.com': 18, '127.0.0.1:5000': 574, '': 0, 'chrome:': 9, 'todoist.com': 73}
+{'getbootstrap.com': 130, 'www.youtube.com': 19, '127.0.0.1:5000': 574, '': 0, 'chrome:': 9, 'todoist.com': 73}
+{'getbootstrap.com': 130, 'www.youtube.com': 20, '127.0.0.1:5000': 574, '': 0, 'chrome:': 9, 'todoist.com': 73}
+{'getbootstrap.com': 130, 'www.youtube.com': 201, '127.0.0.1:5000': 574, '': 0, 'chrome:': 9, 'todoist.com': 73}
+{'getbootstrap.com': 130, 'www.youtube.com': 201, '127.0.0.1:5000': 574, '': 0, 'chrome:': 9, 'todoist.com': 73}
+{'getbootstrap.com': 130, 'www.youtube.com': 201, '127.0.0.1:5000': 574, '': 0, 'chrome:': 17, 'todoist.com': 73, 'www.google.com': 0}
+{'getbootstrap.com': 130, 'www.youtube.com': 201, '127.0.0.1:5000': 574, '': 0, 'chrome:': 17, 'todoist.com': 73, 'www.google.com': 2}
+{'getbootstrap.com': 130, 'www.youtube.com': 204, '127.0.0.1:5000': 574, '': 0, 'chrome:': 17, 'todoist.com': 73, 'www.google.com': 2}
+{'getbootstrap.com': 130, 'www.youtube.com': 204, '127.0.0.1:5000': 574, '': 0, 'chrome:': 17, 'todoist.com': 73, 'www.google.com': 41}
+{'getbootstrap.com': 130, 'www.youtube.com': 204, '127.0.0.1:5000': 574, '': 0, 'chrome:': 17, 'todoist.com': 73, 'www.google.com': 79}
+{'getbootstrap.com': 130, 'www.youtube.com': 204, '127.0.0.1:5000': 574, '': 0, 'chrome:': 17, 'todoist.com': 73, 'www.google.com': 88, 'www.aafp.org': 0}
+{'getbootstrap.com': 130, 'www.youtube.com': 204, '127.0.0.1:5000': 574, '': 0, 'chrome:': 17, 'todoist.com': 73, 'www.google.com': 88, 'www.aafp.org': 21}
+{'getbootstrap.com': 130, 'www.youtube.com': 204, '127.0.0.1:5000': 574, '': 0, 'chrome:': 17, 'todoist.com': 73, 'www.google.com': 125, 'www.aafp.org': 21}
+{'getbootstrap.com': 130, 'www.youtube.com': 204, '127.0.0.1:5000': 574, '': 0, 'chrome:': 17, 'todoist.com': 73, 'www.google.com': 125, 'www.aafp.org': 302}
+{'getbootstrap.com': 130, 'www.youtube.com': 204, '127.0.0.1:5000': 574, '': 0, 'chrome:': 17, 'todoist.com': 92, 'www.google.com': 125, 'www.aafp.org': 302}
+{'getbootstrap.com': 130, 'www.youtube.com': 205, '127.0.0.1:5000': 574, '': 0, 'chrome:': 17, 'todoist.com': 92, 'www.google.com': 125, 'www.aafp.org': 302}
+{'getbootstrap.com': 130, 'www.youtube.com': 797, '127.0.0.1:5000': 574, '': 0, 'chrome:': 17, 'todoist.com': 92, 'www.google.com': 125, 'www.aafp.org': 302}
+{'getbootstrap.com': 130, 'www.youtube.com': 799, '127.0.0.1:5000': 574, '': 0, 'chrome:': 17, 'todoist.com': 92, 'www.google.com': 125, 'www.aafp.org': 302}
