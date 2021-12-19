@@ -1,5 +1,5 @@
 import re
-from flask import Flask,Blueprint, render_template, jsonify, request
+from flask import Flask,Blueprint, render_template, jsonify, request, redirect, url_for
 import time
 from flask_login import login_required,  current_user
 from sqlalchemy.sql.functions import user
@@ -91,7 +91,6 @@ def activity():
 
     x = list(new_urlViewtime.keys())
     y = list(new_urlViewtime.values())
-    global activity
     activity = 0
     allowed_urls = ['127.0.0.1:5000','extractor.hubdoc.com','stackoverflow.com']
     for url in allowed_urls:
@@ -103,9 +102,41 @@ def activity():
     
     return render_template("activity.html",new_urlViewtime=new_urlViewtime, disp = list( new_urlViewtime.items()),x=x, y=y, activity=activity)
     
-@views.route('/em/breakdown')
+@views.route('/em/breakdown', methods=['GET', 'POST'])
 def breakdown():
-    
+
+    new_urlViewtime = {k: v for k, v in sorted(url_viewtime.items(), key= lambda v: v[1], reverse=True)}
+    site_list = new_urlViewtime.values()
+    site_sum = sum(site_list)
+    for k, v in new_urlViewtime.items():
+        if site_sum > 0:
+            new_urlViewtime[k] = round(v / site_sum * 100)
+
+    x = list(new_urlViewtime.keys())
+    y = list(new_urlViewtime.values())
+    activity = 0
+    allowed_urls = ['127.0.0.1:5000','extractor.hubdoc.com','stackoverflow.com']
+    for url in allowed_urls:
+        if url in x:
+            activity += y[x.index(url)]
+            if activity > 100:
+                activity = 100
+    disp = list( new_urlViewtime.items())
+    today = date.today().isoformat()
+    today = datetime.strptime(today, '%Y-%m-%d')
+
+
+
+    new_activity = Shift(activity_score=activity, employee_id=int(current_user.get_id()), sites= str(disp))
+    # submit = False
+    if request.method == 'POST':
+            print("We are here!!!!!!!")
+            db.session.add(new_activity)
+            db.session.commit()
+            print(f"added activity {new_activity}")
+            return redirect(url_for('views.home'))
+
+
     return render_template("shift_breakdown.html")
 
 @views.route('/sup/')
@@ -150,9 +181,11 @@ def tasks():
     return render_template("tasks.html", tasksList = tasksList, user_id=user_id, today=today)
 
 
-@views.route('/sup/activity', )
+@views.route('/sup/activity' )
 def sup_activity():
-    return render_template("sup_activity.html")
+    shiftdata = db.session.query(Shift)
+
+    return render_template("sup_activity.html", shiftdata= shiftdata)
 
 
 @views.route('/admin/')

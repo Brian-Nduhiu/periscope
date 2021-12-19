@@ -1,7 +1,12 @@
 {% extends "sup_base.html" %}
 
 {%block content%}
-
+<h1 style="margin-top: 100px;">Activity Data</h1>
+<ul >
+    {% for shift in shiftdate %}
+    <li>{{ shift.id }}, {{shift.activity_score}}</li>
+    {% endfor %}
+</ul>
 
 
 {%endblock%}

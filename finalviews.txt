@@ -2867,3 +2867,163 @@
 {'chrome:': 0}
 {'chrome:': 9, 'www.google.com': 0}
 {'chrome:': 9, 'www.google.com': 3, 'www.programiz.com': 0}
+{'www.google.com': 0}
+{'www.google.com': 6, 'www.w3schools.com': 0}
+{'www.google.com': 6, 'www.w3schools.com': 11, '': 0}
+{'www.google.com': 6, 'www.w3schools.com': 11, '': 0}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 2}
+{'127.0.0.1:5000': 10}
+{'127.0.0.1:5000': 11}
+{'127.0.0.1:5000': 15}
+{'127.0.0.1:5000': 23}
+{'127.0.0.1:5000': 25}
+{'127.0.0.1:5000': 87, 'flask-login.readthedocs.io': 0}
+{'127.0.0.1:5000': 87, 'flask-login.readthedocs.io': 1, '': 0}
+{'127.0.0.1:5000': 87, 'flask-login.readthedocs.io': 1, '': 0, 'chrome:': 0}
+{'127.0.0.1:5000': 87, 'flask-login.readthedocs.io': 1, '': 0, 'chrome:': 16, 'www.google.com': 0}
+{'127.0.0.1:5000': 87, 'flask-login.readthedocs.io': 1, '': 0, 'chrome:': 16, 'www.google.com': 4, 'stackoverflow.com': 0}
+{'127.0.0.1:5000': 87, 'flask-login.readthedocs.io': 1, '': 0, 'chrome:': 16, 'www.google.com': 4, 'stackoverflow.com': 69}
+{'127.0.0.1:5000': 87, 'flask-login.readthedocs.io': 1, '': 0, 'chrome:': 16, 'www.google.com': 10, 'stackoverflow.com': 69, 'www.codegrepper.com': 0}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 4}
+{'127.0.0.1:5000': 13, 'www.codegrepper.com': 0}
+{'127.0.0.1:5000': 13, 'www.codegrepper.com': 1}
+{'127.0.0.1:5000': 20, 'www.codegrepper.com': 1}
+{'127.0.0.1:5000': 21, 'www.codegrepper.com': 1}
+{'127.0.0.1:5000': 25, 'www.codegrepper.com': 1}
+{'127.0.0.1:5000': 49, 'www.codegrepper.com': 1, 'chrome:': 0}
+{'127.0.0.1:5000': 49, 'www.codegrepper.com': 1, 'chrome:': 0}
+{'127.0.0.1:5000': 49, 'www.codegrepper.com': 1, 'chrome:': 38, 'www.google.com': 0}
+{'127.0.0.1:5000': 49, 'www.codegrepper.com': 1, 'chrome:': 38, 'www.google.com': 52}
+{'127.0.0.1:5000': 52, 'www.codegrepper.com': 1, 'chrome:': 38, 'www.google.com': 52}
+{'127.0.0.1:5000': 59, 'www.codegrepper.com': 1, 'chrome:': 38, 'www.google.com': 52}
+{'127.0.0.1:5000': 63, 'www.codegrepper.com': 1, 'chrome:': 38, 'www.google.com': 52}
+{'127.0.0.1:5000': 77, 'www.codegrepper.com': 1, 'chrome:': 38, 'www.google.com': 52}
+{'127.0.0.1:5000': 79, 'www.codegrepper.com': 1, 'chrome:': 38, 'www.google.com': 52}
+{'127.0.0.1:5000': 82, 'www.codegrepper.com': 1, 'chrome:': 38, 'www.google.com': 52}
+{'127.0.0.1:5000': 94, 'www.codegrepper.com': 1, 'chrome:': 38, 'www.google.com': 52}
+{'127.0.0.1:5000': 100, 'www.codegrepper.com': 1, 'chrome:': 38, 'www.google.com': 52}
+{'127.0.0.1:5000': 104, 'www.codegrepper.com': 1, 'chrome:': 38, 'www.google.com': 52}
+{'127.0.0.1:5000': 112, 'www.codegrepper.com': 1, 'chrome:': 38, 'www.google.com': 52}
+{'127.0.0.1:5000': 114, 'www.codegrepper.com': 1, 'chrome:': 38, 'www.google.com': 52}
+{'127.0.0.1:5000': 115, 'www.codegrepper.com': 1, 'chrome:': 38, 'www.google.com': 52}
+{'127.0.0.1:5000': 122, 'www.codegrepper.com': 1, 'chrome:': 38, 'www.google.com': 52, '': 0}
+{'127.0.0.1:5000': 122, 'www.codegrepper.com': 1, 'chrome:': 38, 'www.google.com': 52, '': 0}
+{'127.0.0.1:5000': 122, 'www.codegrepper.com': 1, 'chrome:': 41, 'www.google.com': 52, '': 0, 'github.com': 0}
+{'127.0.0.1:5000': 122, 'www.codegrepper.com': 1, 'chrome:': 41, 'www.google.com': 52, '': 0, 'github.com': 14}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 4}
+{'127.0.0.1:5000': 11}
+{'127.0.0.1:5000': 15}
+{'127.0.0.1:5000': 22}
+{'127.0.0.1:5000': 24}
+{'127.0.0.1:5000': 26}
+{'127.0.0.1:5000': 132}
+{'127.0.0.1:5000': 137}
+{'127.0.0.1:5000': 146}
+{'127.0.0.1:5000': 148}
+{'127.0.0.1:5000': 150}
+{'127.0.0.1:5000': 161, 'www.google.com': 0}
+{'127.0.0.1:5000': 161, 'www.google.com': 1, 'www.codegrepper.com': 0}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 1}
+{'127.0.0.1:5000': 3}
+{'127.0.0.1:5000': 0}
+{'': 0}
+{'': 0, 'docs.sqlalchemy.org': 0}
+{'': 0, 'docs.sqlalchemy.org': 23, 'todoist.com': 0}
+{'': 0, 'docs.sqlalchemy.org': 23, 'todoist.com': 3, '127.0.0.1:5000': 0}
+{'': 0, 'docs.sqlalchemy.org': 23, 'todoist.com': 3, '127.0.0.1:5000': 60}
+{'': 0, 'docs.sqlalchemy.org': 23, 'todoist.com': 3, '127.0.0.1:5000': 64}
+{'': 0, 'docs.sqlalchemy.org': 23, 'todoist.com': 3, '127.0.0.1:5000': 66}
+{'': 0, 'docs.sqlalchemy.org': 23, 'todoist.com': 3, '127.0.0.1:5000': 124, 'chrome:': 0}
+{'': 0, 'docs.sqlalchemy.org': 23, 'todoist.com': 3, '127.0.0.1:5000': 124, 'chrome:': 0}
+{'': 0, 'docs.sqlalchemy.org': 23, 'todoist.com': 3, '127.0.0.1:5000': 124, 'chrome:': 11, 'www.google.com': 0}
+{'': 0, 'docs.sqlalchemy.org': 23, 'todoist.com': 3, '127.0.0.1:5000': 124, 'chrome:': 11, 'www.google.com': 7, 'stackoverflow.com': 0}
+{'': 0, 'docs.sqlalchemy.org': 23, 'todoist.com': 3, '127.0.0.1:5000': 124, 'chrome:': 11, 'www.google.com': 7, 'stackoverflow.com': 35}
+{'': 0, 'docs.sqlalchemy.org': 23, 'todoist.com': 3, '127.0.0.1:5000': 124, 'chrome:': 11, 'www.google.com': 7, 'stackoverflow.com': 35}
+{'': 0, 'docs.sqlalchemy.org': 23, 'todoist.com': 3, '127.0.0.1:5000': 124, 'chrome:': 11, 'www.google.com': 11, 'stackoverflow.com': 35, 'www.programcreek.com': 0}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 48}
+{'127.0.0.1:5000': 56, 'www.youtube.com': 0}
+{'127.0.0.1:5000': 56, 'www.youtube.com': 1, 'todoist.com': 0}
+{'127.0.0.1:5000': 56, 'www.youtube.com': 1, 'todoist.com': 1, 'www.geeksforgeeks.org': 0}
+{'127.0.0.1:5000': 56, 'www.youtube.com': 1, 'todoist.com': 1, 'www.geeksforgeeks.org': 1, 'flask-login.readthedocs.io': 0}
+{'127.0.0.1:5000': 56, 'www.youtube.com': 1, 'todoist.com': 1, 'www.geeksforgeeks.org': 1, 'flask-login.readthedocs.io': 0, 'www.google.com': 0}
+{'127.0.0.1:5000': 56, 'www.youtube.com': 1, 'todoist.com': 1, 'www.geeksforgeeks.org': 1, 'flask-login.readthedocs.io': 0, 'www.google.com': 1, 'stackoverflow.com': 0}
+{'127.0.0.1:5000': 56, 'www.youtube.com': 1, 'todoist.com': 1, 'www.geeksforgeeks.org': 1, 'flask-login.readthedocs.io': 0, 'www.google.com': 1, 'stackoverflow.com': 12, '': 0}
+{'127.0.0.1:5000': 56, 'www.youtube.com': 1, 'todoist.com': 1, 'www.geeksforgeeks.org': 1, 'flask-login.readthedocs.io': 0, 'www.google.com': 1, 'stackoverflow.com': 12, '': 0, 'chrome:': 0}
+{'127.0.0.1:5000': 56, 'www.youtube.com': 1, 'todoist.com': 1, 'www.geeksforgeeks.org': 1, 'flask-login.readthedocs.io': 0, 'www.google.com': 1, 'stackoverflow.com': 12, '': 0, 'chrome:': 2, 'extractor.hubdoc.com': 0}
+{'127.0.0.1:5000': 56, 'www.youtube.com': 1, 'todoist.com': 1, 'www.geeksforgeeks.org': 1, 'flask-login.readthedocs.io': 0, 'www.google.com': 1, 'stackoverflow.com': 12, '': 0, 'chrome:': 2, 'extractor.hubdoc.com': 4}
+{'127.0.0.1:5000': 65, 'www.youtube.com': 1, 'todoist.com': 1, 'www.geeksforgeeks.org': 1, 'flask-login.readthedocs.io': 0, 'www.google.com': 1, 'stackoverflow.com': 12, '': 0, 'chrome:': 2, 'extractor.hubdoc.com': 4}
+{'127.0.0.1:5000': 67, 'www.youtube.com': 1, 'todoist.com': 1, 'www.geeksforgeeks.org': 1, 'flask-login.readthedocs.io': 0, 'www.google.com': 1, 'stackoverflow.com': 12, '': 0, 'chrome:': 2, 'extractor.hubdoc.com': 4}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 3, 'stackoverflow.com': 0}
+{'127.0.0.1:5000': 3, 'stackoverflow.com': 10, 'extractor.hubdoc.com': 0}
+{'127.0.0.1:5000': 3, 'stackoverflow.com': 10, 'extractor.hubdoc.com': 3}
+{'127.0.0.1:5000': 8, 'stackoverflow.com': 10, 'extractor.hubdoc.com': 3, 'www.youtube.com': 0}
+{'127.0.0.1:5000': 8, 'stackoverflow.com': 10, 'extractor.hubdoc.com': 3, 'www.youtube.com': 2}
+{'127.0.0.1:5000': 14, 'stackoverflow.com': 10, 'extractor.hubdoc.com': 3, 'www.youtube.com': 2}
+{'127.0.0.1:5000': 16, 'stackoverflow.com': 10, 'extractor.hubdoc.com': 3, 'www.youtube.com': 2}
+{'127.0.0.1:5000': 149, 'stackoverflow.com': 10, 'extractor.hubdoc.com': 3, 'www.youtube.com': 2, '': 0}
+{'127.0.0.1:5000': 149, 'stackoverflow.com': 10, 'extractor.hubdoc.com': 3, 'www.youtube.com': 2, '': 0, 'www.google.com': 0}
+{'127.0.0.1:5000': 149, 'stackoverflow.com': 10, 'extractor.hubdoc.com': 3, 'www.youtube.com': 2, '': 0, 'www.google.com': 0, 'docs.sqlalchemy.org': 0}
+{'127.0.0.1:5000': 149, 'stackoverflow.com': 10, 'extractor.hubdoc.com': 3, 'www.youtube.com': 2, '': 0, 'www.google.com': 0, 'docs.sqlalchemy.org': 9}
+{'127.0.0.1:5000': 149, 'stackoverflow.com': 10, 'extractor.hubdoc.com': 3, 'www.youtube.com': 2, '': 0, 'www.google.com': 0, 'docs.sqlalchemy.org': 9}
+{'127.0.0.1:5000': 149, 'stackoverflow.com': 10, 'extractor.hubdoc.com': 3, 'www.youtube.com': 2, '': 0, 'www.google.com': 6, 'docs.sqlalchemy.org': 9}
+{'127.0.0.1:5000': 149, 'stackoverflow.com': 71, 'extractor.hubdoc.com': 3, 'www.youtube.com': 2, '': 0, 'www.google.com': 6, 'docs.sqlalchemy.org': 9}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 5}
+{'127.0.0.1:5000': 12}
+{'127.0.0.1:5000': 15, 'stackoverflow.com': 0}
+{'127.0.0.1:5000': 15, 'stackoverflow.com': 4, 'github.com': 0}
+{'127.0.0.1:5000': 15, 'stackoverflow.com': 4, 'github.com': 2, 'extractor.hubdoc.com': 0}
+{'127.0.0.1:5000': 15, 'stackoverflow.com': 4, 'github.com': 2, 'extractor.hubdoc.com': 5}
+{'127.0.0.1:5000': 15, 'stackoverflow.com': 9, 'github.com': 2, 'extractor.hubdoc.com': 5}
+{'127.0.0.1:5000': 31, 'stackoverflow.com': 9, 'github.com': 2, 'extractor.hubdoc.com': 5}
+{'127.0.0.1:5000': 35, 'stackoverflow.com': 9, 'github.com': 2, 'extractor.hubdoc.com': 5}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 11}
+{'127.0.0.1:5000': 16}
+{'127.0.0.1:5000': 35}
+{'127.0.0.1:5000': 37, 'stackoverflow.com': 0}
+{'127.0.0.1:5000': 37, 'stackoverflow.com': 2, 'www.youtube.com': 0}
+{'127.0.0.1:5000': 37, 'stackoverflow.com': 2, 'www.youtube.com': 1, 'www.programcreek.com': 0}
+{'127.0.0.1:5000': 37, 'stackoverflow.com': 2, 'www.youtube.com': 1, 'www.programcreek.com': 1, 'extractor.hubdoc.com': 0}
+{'127.0.0.1:5000': 37, 'stackoverflow.com': 2, 'www.youtube.com': 1, 'www.programcreek.com': 1, 'extractor.hubdoc.com': 2}
+{'127.0.0.1:5000': 37, 'stackoverflow.com': 4, 'www.youtube.com': 1, 'www.programcreek.com': 1, 'extractor.hubdoc.com': 2}
+{'127.0.0.1:5000': 41, 'stackoverflow.com': 4, 'www.youtube.com': 1, 'www.programcreek.com': 1, 'extractor.hubdoc.com': 2}
+{'127.0.0.1:5000': 43, 'stackoverflow.com': 4, 'www.youtube.com': 1, 'www.programcreek.com': 1, 'extractor.hubdoc.com': 2}
+{'127.0.0.1:5000': 46, 'stackoverflow.com': 4, 'www.youtube.com': 1, 'www.programcreek.com': 1, 'extractor.hubdoc.com': 2}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 5}
+{'127.0.0.1:5000': 9}
+{'127.0.0.1:5000': 141}
+{'127.0.0.1:5000': 144}
+{'127.0.0.1:5000': 175, 'chrome:': 0}
+{'127.0.0.1:5000': 175, 'chrome:': 0}
+{'127.0.0.1:5000': 175, 'chrome:': 7, 'www.google.com': 0}
+{'127.0.0.1:5000': 175, 'chrome:': 7, 'www.google.com': 3, 'www.geeksforgeeks.org': 0}
+{'127.0.0.1:5000': 175, 'chrome:': 7, 'www.google.com': 3, 'www.geeksforgeeks.org': 5}
+{'127.0.0.1:5000': 0}
+{'127.0.0.1:5000': 3}
+{'127.0.0.1:5000': 9}
+{'127.0.0.1:5000': 12}
+{'127.0.0.1:5000': 13, 'extractor.hubdoc.com': 0}
+{'127.0.0.1:5000': 13, 'extractor.hubdoc.com': 2}
+{'127.0.0.1:5000': 14, 'extractor.hubdoc.com': 2, 'stackoverflow.com': 0}
+{'127.0.0.1:5000': 14, 'extractor.hubdoc.com': 2, 'stackoverflow.com': 1, 'www.youtube.com': 0}
+{'127.0.0.1:5000': 14, 'extractor.hubdoc.com': 2, 'stackoverflow.com': 1, 'www.youtube.com': 1, 'github.com': 0}
+{'127.0.0.1:5000': 14, 'extractor.hubdoc.com': 2, 'stackoverflow.com': 1, 'www.youtube.com': 1, 'github.com': 1}
+{'127.0.0.1:5000': 14, 'extractor.hubdoc.com': 2, 'stackoverflow.com': 1, 'www.youtube.com': 1, 'github.com': 1}
+{'127.0.0.1:5000': 17, 'extractor.hubdoc.com': 2, 'stackoverflow.com': 1, 'www.youtube.com': 1, 'github.com': 1}
+{'127.0.0.1:5000': 22, 'extractor.hubdoc.com': 2, 'stackoverflow.com': 1, 'www.youtube.com': 1, 'github.com': 1}
+{'127.0.0.1:5000': 23, 'extractor.hubdoc.com': 2, 'stackoverflow.com': 1, 'www.youtube.com': 1, 'github.com': 1}
+{'127.0.0.1:5000': 25, 'extractor.hubdoc.com': 2, 'stackoverflow.com': 1, 'www.youtube.com': 1, 'github.com': 1}
+{'127.0.0.1:5000': 96, 'extractor.hubdoc.com': 2, 'stackoverflow.com': 1, 'www.youtube.com': 1, 'github.com': 1}
+{'127.0.0.1:5000': 100, 'extractor.hubdoc.com': 2, 'stackoverflow.com': 1, 'www.youtube.com': 1, 'github.com': 1}
+{'127.0.0.1:5000': 103, 'extractor.hubdoc.com': 2, 'stackoverflow.com': 1, 'www.youtube.com': 1, 'github.com': 1}
+{'chrome:': 0}
+{'chrome:': 0}
+{'chrome:': 20, 'www.google.com': 0}
